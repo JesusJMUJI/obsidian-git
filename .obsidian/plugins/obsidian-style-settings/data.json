@@ -8,11 +8,15 @@
   "Border@@theme-light-style-select": "theme-light-background-adapt",
   "Border@@theme-dark-style-select": "theme-dark-background-default",
   "Border@@accent-color-restore": false,
-  "Border@@tab-autohide": true,
-  "Border@@Ribbon-autohide": true,
-  "Border@@status-bar-autohide": true,
+  "Border@@tab-autohide": false,
+  "Border@@Ribbon-autohide": false,
+  "Border@@status-bar-autohide": false,
   "Border@@outline-enhanced": true,
   "Border@@colorful-folder": true,
   "Border@@setting-item-title-icon-remove": false,
-  "Border@@scrollbar-space-occupation-off": false
+  "Border@@scrollbar-space-occupation-off": false,
+  "Border@@canvas-card-menu": "canvas-card-menu-center",
+  "Border@@tab-title-bar": "tab-title-bar-autohide",
+  "Border@@CTA-BTN-disable": false,
+  "Border@@colorful-checkbox": true
 }
