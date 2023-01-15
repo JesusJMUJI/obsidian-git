@@ -3,7 +3,6 @@ Una clase define el comportamiento de un objeto y la información que ese objeto
 Una clase _hijo_ hereda sus atributos y métodos de la clase padre.
 
 ---
-
 #### Creando la clase **Perro**
 
 ```python 
