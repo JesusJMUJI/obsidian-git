@@ -1,6 +1,5 @@
-# obsidian-git
+# Obsidian Vault
+---
 
-## Test sync
-
-Another test sync
-* This another change that will change that will push*
+Obsidian vault with all of my University notes, classes, etc. 
+This repo is public to anyone but 
