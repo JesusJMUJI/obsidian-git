@@ -1,1 +1,3 @@
 # obsidian-git
+
+## Test sync
