@@ -7,5 +7,6 @@
   "showLineNumber": true,
   "showFrontmatter": true,
   "strictLineBreaks": true,
-  "livePreview": true
+  "livePreview": true,
+  "alwaysUpdateLinks": true
 }

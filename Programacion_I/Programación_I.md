@@ -4,11 +4,11 @@
 
 ---
 ##### Cheat Sheets no oficiales (recursos externos)
-[[Clases]]
+[[Clases de Python]]
 [[Trabajando con archivos]]
 
 ---
 
 ##### Cheat Sheets oficiales (Aprobados por Marcos Mar)
-[[Listas]]
+[[Programacion_I/Python Cheat Sheets/Oficiales (Mar Marcos Approved)/Listas]]
 [[Matrices]]
