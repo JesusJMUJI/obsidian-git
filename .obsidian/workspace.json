@@ -47,12 +47,8 @@
             "id": "1af7e4614c9f59d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programacion_I/Cheat Sheets/No oficiales/Trabajando con archivos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -122,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion_I/Cheat Sheets/No oficiales/Trabajando con archivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion_I/Cheat Sheets/No oficiales/Trabajando con archivos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programacion_I/Cheat Sheets/No oficiales/Trabajando con archivos.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -185,8 +177,8 @@
   },
   "active": "1af7e4614c9f59d8",
   "lastOpenFiles": [
-    "Programacion_I/Cheat Sheets/No oficiales/Clases.md",
     "Programacion_I/Cheat Sheets/No oficiales/Trabajando con archivos.md",
+    "Programacion_I/Cheat Sheets/No oficiales/Clases.md",
     "Programacion_I/Cheat Sheets/Oficiales/Matrices.md",
     "Programacion_I/Cheat Sheets/Oficiales/Listas.md",
     "Imagenes/IMG_20230115_130324_781.jpg",
