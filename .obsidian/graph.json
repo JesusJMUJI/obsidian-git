@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "section:()",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,23 +8,30 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#programacion",
+      "query": "tag:#programacion_I",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
+    },
+    {
+      "query": "tag:#python",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "showArrow": true,
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 0.641578947368421,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000024,
-  "close": true
+  "scale": 1.0000000000000027,
+  "close": false
 }

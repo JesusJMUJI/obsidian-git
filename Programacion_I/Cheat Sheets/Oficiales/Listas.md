@@ -1,3 +1,5 @@
+#programacion_I
+#python 
 
 --- 
 #### Lista de dígitos a partir de texto

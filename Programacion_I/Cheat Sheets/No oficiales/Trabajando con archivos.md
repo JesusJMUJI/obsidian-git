@@ -1,3 +1,6 @@
+#programacion_I
+#python
+
 Tus programas se pueden leer desde archivos y escribir archivos. Los archivos se abren en modo lectura ***(R)*** por defecto, pero se pueden abrir en modo lectura con **(W)** y en modo append (adición) con **(A)**.
 
 #### Leer un archivo y guardar líneas 

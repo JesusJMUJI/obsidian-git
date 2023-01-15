@@ -1,3 +1,6 @@
+#programacion_I
+#python
+
 ----
 Una clase define el comportamiento de un objeto y la información que ese objeto puede almacenar. La información de una clase se guarda en atributos, mientras que una función que pertenece a una clase se llama método. 
 Una clase _hijo_ hereda sus atributos y métodos de la clase padre.
