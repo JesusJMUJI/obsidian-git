@@ -1,1 +1,11 @@
-{}
+{
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "es",
+    "en-US"
+  ],
+  "showLineNumber": true,
+  "showFrontmatter": true,
+  "strictLineBreaks": true,
+  "livePreview": true
+}
