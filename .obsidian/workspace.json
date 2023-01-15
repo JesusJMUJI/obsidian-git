@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion_I/Python Cheat Sheet.md",
+                "file": "Programacion_I/Cheat Sheet de Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion_I/Python Cheat Sheet.md",
+                "file": "Programacion_I/Cheat Sheet de Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion_I/Python Cheat Sheet.md",
+                "file": "Programacion_I/Cheat Sheet de Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion_I/Python Cheat Sheet.md"
+                "file": "Programacion_I/Cheat Sheet de Python.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "fbc8c388fd47ec2d",
   "lastOpenFiles": [
+    "s93.pdf",
+    "Programacion_I/Cheat Sheet de Python.md",
     "Programacion_I/Python Cheat Sheet.md",
     "Imagenes/IMG_20230115_130324_781.jpg",
     "Untitled.md",
