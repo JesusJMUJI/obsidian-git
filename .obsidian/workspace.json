@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Listas.md",
+                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Clases de Python.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ce1d060be2e9c35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programacion_I/Programación_I.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Listas.md",
+                "file": "Programacion_I/Programación_I.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Listas.md",
+                "file": "Programacion_I/Programación_I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Listas.md"
+                "file": "Programacion_I/Programación_I.md"
               }
             }
           }
@@ -161,17 +174,17 @@
       "canvas:Create new canvas": true
     }
   },
-  "active": "7ad0f61c97dc56e1",
+  "active": "0ce1d060be2e9c35",
   "lastOpenFiles": [
     "Programacion_I/Python Cheat Sheets/Oficiales (Mar Marcos Approved)/Matrices.md",
     "Programacion_I/Python Cheat Sheets/Oficiales (Mar Marcos Approved)/Listas.md",
-    "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Trabajando con archivos.md",
-    "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Clases de Python.md",
     "Programacion_I/Programación_I.md",
+    "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md",
+    "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Clases de Python.md",
+    "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Listas.md",
+    "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Trabajando con archivos.md",
     "README.md",
     "Test.md",
-    "Nota.md",
-    "Info_Basica/TE06 II - Redes.md",
-    "2023-01-15.md"
+    "Nota.md"
   ]
 }
