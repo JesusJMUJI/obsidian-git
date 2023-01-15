@@ -45,9 +45,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "81f0b9c8838d9850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Bucles 'While'.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b22a0cbb2d7f5633",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Funciones de Python.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -113,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion_I/Programación_I.md",
+                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Funciones de Python.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion_I/Programación_I.md",
+                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Funciones de Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion_I/Programación_I.md"
+                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Funciones de Python.md"
               }
             }
           }
@@ -174,17 +200,17 @@
       "canvas:Create new canvas": true
     }
   },
-  "active": "0ce1d060be2e9c35",
+  "active": "b22a0cbb2d7f5633",
   "lastOpenFiles": [
+    "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Bucles 'While'.md",
+    "Programacion_I/Programación_I.md",
     "Programacion_I/Python Cheat Sheets/Oficiales (Mar Marcos Approved)/Matrices.md",
     "Programacion_I/Python Cheat Sheets/Oficiales (Mar Marcos Approved)/Listas.md",
-    "Programacion_I/Programación_I.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Clases de Python.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Listas.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Trabajando con archivos.md",
     "README.md",
-    "Test.md",
-    "Nota.md"
+    "Test.md"
   ]
 }
