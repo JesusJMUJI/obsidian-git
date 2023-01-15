@@ -1,7 +1,7 @@
 {
   "display_language": "display",
   "filter_mode": "0",
-  "translation_service": "google_translate",
+  "translation_service": "deepl",
   "security_setting": "none",
   "switch_button_action": "switch-both",
   "apply_glossary": false,
@@ -209,6 +209,116 @@
         "zu"
       ],
       "version": "1.1.0"
+    },
+    "deepl": {
+      "selected_languages": [],
+      "api_key": "",
+      "auto_translate": false,
+      "auto_translate_interval": 500,
+      "validated": null,
+      "available_languages": [
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "lt",
+        "lv",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sv",
+        "tr",
+        "uk",
+        "zh"
+      ],
+      "glossary_languages": {
+        "de": [
+          "en",
+          "fr"
+        ],
+        "en": [
+          "de",
+          "es",
+          "fr",
+          "ja",
+          "it",
+          "pl",
+          "nl"
+        ],
+        "es": [
+          "en"
+        ],
+        "fr": [
+          "de",
+          "en"
+        ],
+        "ja": [
+          "en"
+        ],
+        "it": [
+          "en"
+        ],
+        "pl": [
+          "en"
+        ],
+        "nl": [
+          "en"
+        ]
+      },
+      "version": "1.0.2"
+    },
+    "libre_translate": {
+      "selected_languages": [],
+      "host": "",
+      "auto_translate": false,
+      "auto_translate_interval": 500,
+      "validated": false,
+      "available_languages": [
+        "en",
+        "ar",
+        "az",
+        "zh",
+        "cs",
+        "da",
+        "nl",
+        "eo",
+        "fi",
+        "fr",
+        "de",
+        "el",
+        "he",
+        "hi",
+        "hu",
+        "id",
+        "ga",
+        "it",
+        "ja",
+        "ko",
+        "fa",
+        "pl",
+        "pt",
+        "ru",
+        "sk",
+        "es",
+        "sv",
+        "tr",
+        "uk"
+      ],
+      "version": "1.0.1"
     }
   }
 }

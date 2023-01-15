@@ -45,43 +45,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "6ec5ae95635109bc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7f11fad82618396c",
-            "type": "leaf",
-            "state": {
-              "type": "translator-view",
-              "state": {
-                "language_from": "auto",
-                "language_to": "en",
-                "translation_service": "google_translate",
-                "auto_translate": false,
-                "apply_glossary": false,
-                "view_mode": 0,
-                "filter_mode": 0,
-                "show_attribution": false,
-                "top_buttons": [
-                  "change-service",
-                  "automatic-translation",
-                  "change-layout",
-                  "apply-filter",
-                  "open-settings"
-                ],
-                "left_buttons": [
-                  "paste",
-                  "clear"
-                ],
-                "right_buttons": [
-                  "copy"
-                ]
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -210,7 +173,7 @@
       "translate:Open translation view": false
     }
   },
-  "active": "7f11fad82618396c",
+  "active": "8ae24e6dbc3cd996",
   "lastOpenFiles": [
     "Programacion_I/Cheat Sheets/Oficiales/Matrices.md",
     "Programacion_I/Cheat Sheets/Oficiales/Listas.md",
