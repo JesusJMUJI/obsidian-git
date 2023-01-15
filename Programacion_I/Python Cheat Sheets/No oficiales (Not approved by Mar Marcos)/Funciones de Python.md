@@ -67,4 +67,9 @@ describe_pet('hamster', 'harry')
 describe_pet('snake')
 ```
 
-## 
+## Argumentos de palabras clave (*keywords*) y posicionales
+
+Los dos tipos principales de argumentos son los posicionales y *keywords*. 
+Cuando usas argumentos posicionales, Python enlaza el primer argumento de la función con el primer parámetro de esta. 
+
+Con argumentos *keyword*, tu específicas que argumento debe ser asignado al llamar a la función. 
