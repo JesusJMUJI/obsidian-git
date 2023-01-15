@@ -4,6 +4,10 @@
 
 ---
 ##### Cheat Sheets no oficiales (recursos externos)
+>[!Example]
+>Test
+>testing
+
 [[Bucles 'While']]
 [[Clases de Python]]
 [[Funciones de Python]]

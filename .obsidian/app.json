@@ -9,5 +9,6 @@
   "strictLineBreaks": true,
   "livePreview": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Imagenes_No_Organizadas"
+  "attachmentFolderPath": "Imagenes_No_Organizadas",
+  "readableLineLength": false
 }
