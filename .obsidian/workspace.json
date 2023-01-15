@@ -32,7 +32,7 @@
       {
         "id": "2bfc0fd0ad47d336",
         "type": "tabs",
-        "dimension": 30.753968253968257,
+        "dimension": 28.869047619047617,
         "children": [
           {
             "id": "fc77708b047df97c",
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#python",
+                "query": "tag:#programacion_I ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
       {
         "id": "3327830b43ddad15",
         "type": "tabs",
-        "dimension": 69.24603174603175,
+        "dimension": 71.13095238095238,
         "children": [
           {
             "id": "cb3aaebab058f7a6",
@@ -175,10 +175,10 @@
   },
   "active": "759f056483aa5f98",
   "lastOpenFiles": [
+    "Programacion_I/Programación_I.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Funciones de Python.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Bucles 'While'.md",
     "README.md",
-    "Programacion_I/Programación_I.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Clases de Python.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Listas.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Trabajando con archivos.md",
