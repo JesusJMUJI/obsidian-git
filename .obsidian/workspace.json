@@ -26,7 +26,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "236d7c471ad1af06",
+            "id": "ebfa908774a9927a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,6 +34,16 @@
                 "file": "Programacion_I/Python Cheat Sheet.md",
                 "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "236d7c471ad1af06",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Imagenes/IMG_20230115_130324_781.jpg"
               }
             }
           }
@@ -166,8 +176,8 @@
   },
   "active": "4aede3e2ec35d880",
   "lastOpenFiles": [
-    "Imagenes/IMG_20230115_130324_781.jpg",
     "Programacion_I/Python Cheat Sheet.md",
+    "Imagenes/IMG_20230115_130324_781.jpg",
     "Untitled.canvas",
     "README.md",
     "Untitled.md"

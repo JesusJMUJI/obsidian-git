@@ -2,7 +2,8 @@
   "accentColor": "",
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
-  "monospaceFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "Cascadia Code,JetBrains Mono",
   "translucency": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "cssTheme": "Atom"
 }
