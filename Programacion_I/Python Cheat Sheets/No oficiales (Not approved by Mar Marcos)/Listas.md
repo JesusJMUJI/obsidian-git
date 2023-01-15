@@ -4,6 +4,15 @@
 bikes = ['trek', 'redline', 'giant']
 ```
 
+#### Acceder a un elemento
+```python
+# primer elemento
+first_bike = bikes[0]
+
+# Ultimo Elemento
+last_bike = bikes[-1]
+```
+
 #### Loopear lista
 
 ```python
@@ -24,7 +33,8 @@ copy_of_bikes = bikes[:]
 
 #### Cortar lista
 
-````python
+```python
 finishers = ['sam', 'bob', 'ada']
 first_two = finishers[:2]
 ```
+

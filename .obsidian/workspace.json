@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md",
+                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Listas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md",
+                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Listas.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md",
+                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Listas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md"
+                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Listas.md"
               }
             }
           }
@@ -175,6 +175,7 @@
   },
   "active": "759f056483aa5f98",
   "lastOpenFiles": [
+    "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Funciones de Python.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Clases de Python.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Bucles 'While'.md",
@@ -182,7 +183,6 @@
     "README.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Listas.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Trabajando con archivos.md",
-    "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Ar.md",
     "Programacion_I/Python Cheat Sheets/Oficiales (Mar Marcos Approved)/Matrices.md"
   ]
