@@ -166,8 +166,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,9 +185,9 @@
   },
   "active": "1af7e4614c9f59d8",
   "lastOpenFiles": [
-    "Programacion_I/Cheat Sheets/Oficiales/Matrices.md",
-    "Programacion_I/Cheat Sheets/No oficiales/Trabajando con archivos.md",
     "Programacion_I/Cheat Sheets/No oficiales/Clases.md",
+    "Programacion_I/Cheat Sheets/No oficiales/Trabajando con archivos.md",
+    "Programacion_I/Cheat Sheets/Oficiales/Matrices.md",
     "Programacion_I/Cheat Sheets/Oficiales/Listas.md",
     "Imagenes/IMG_20230115_130324_781.jpg",
     "Info_Basica/Presentación Los roguelikes y el valor de las horas de juego.md",

@@ -1,6 +1,6 @@
 {
-  "aestheticStyle": "default",
-  "positionStyle": "following",
+  "aestheticStyle": "glass",
+  "positionStyle": "fixed",
   "menuCommands": [
     {
       "id": "editing-toolbar:editor-undo",
@@ -211,8 +211,8 @@
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
-  "cMenuWidth": 538,
-  "cMenuFontColor": "#2DC26B",
+  "cMenuWidth": 502,
+  "cMenuFontColor": "#c00000",
   "cMenuBackgroundColor": "#d3f8b6",
   "autohide": true
 }
