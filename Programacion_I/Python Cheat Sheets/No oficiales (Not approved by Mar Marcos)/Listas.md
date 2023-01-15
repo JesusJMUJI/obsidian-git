@@ -1,3 +1,5 @@
+#programacion_I #python [[Programación_I]]
+
 ```python
 bikes = ['trek', 'redline', 'giant']
 ```

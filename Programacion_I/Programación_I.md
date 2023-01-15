@@ -4,7 +4,11 @@
 
 ---
 ##### Cheat Sheets no oficiales (recursos externos)
+[[Bucles 'While']]
 [[Clases de Python]]
+[[Funciones de Python]]
+[[IF statements]]
+[[Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Listas]]
 [[Trabajando con archivos]]
 
 ---

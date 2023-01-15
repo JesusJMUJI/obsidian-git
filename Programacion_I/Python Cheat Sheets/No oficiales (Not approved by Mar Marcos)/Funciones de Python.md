@@ -1,5 +1,4 @@
-#programacion_I #python 
-[[Programación_I]]
+#programacion_I #python [[Programación_I]]
 
 ---
 
@@ -32,7 +31,17 @@ def make_pizza(topping = 'bacon'):
 	"""Make a single-topping pizza."""
 	print("Have a " + topping + " pizza!")
 
-make_pizza()
+make_pizza() 
+# Puede cambiarse por input de usuario con make_pizza(input())
 make_pizza("pepperoni")
 ```
 
+#### Devolver un valor
+```python
+def add_numbers (x,y):
+	"""Add two numbers and return the sum."""
+	return x + y
+
+sum = add_numbers(3,5)
+print(sum)
+```
