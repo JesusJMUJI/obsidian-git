@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "interfaceFontFamily": "Inter",
-  "textFontFamily": "Inter",
-  "monospaceFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "Inter,Atkinson Hyperlegible",
+  "textFontFamily": "Atkinson Hyperlegible,Inter",
+  "monospaceFontFamily": "JetBrains Mono,Cascadia Code",
   "translucency": false,
   "nativeMenus": false,
   "cssTheme": ""

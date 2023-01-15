@@ -3,7 +3,7 @@
   "urlMode": "premium",
   "glassBg": false,
   "shouldAutoCheck": true,
-  "pickyMode": false,
+  "pickyMode": true,
   "username": "jesusjimenez.2710@gmail.com",
   "apikey": "pit-a8865zbVuMlQ"
 }
