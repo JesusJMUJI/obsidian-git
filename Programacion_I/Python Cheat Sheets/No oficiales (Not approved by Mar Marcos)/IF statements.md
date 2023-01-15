@@ -15,5 +15,7 @@ or equal to | x <= 42
 
 #### Tests condicionales con listas
 ```python
-
+'trek' in bikes
+'surly' not in bikes
 ```
+
