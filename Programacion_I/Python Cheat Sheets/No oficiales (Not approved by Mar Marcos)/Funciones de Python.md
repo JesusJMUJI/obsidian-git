@@ -7,7 +7,13 @@ La información pasada A UNA función se llama *argumento* y la información rec
 
 ---
 
-#### Función sencilla
+La primera línea de una función es su definición, marcada por la palabra *def*. 
+El nombre de la función la sigue los paréntesis y un doble punto. 
+El cuerpo de una función se indenta un nivel.
+		Para llamar una función, escribe el nombre de esta con paréntesis al final. 
+
+## Funciones sencillas
+
 ```python
 def greet_user():
 	"""Display a simple greeting"""
@@ -45,5 +51,20 @@ def describe_pet(name, animal = 'dog')
 	print("\nI have a "+ animal + ".")
 	print("Its name is " + name + ".")
 
+describe_pet('harry', 'hamster')
+describe_pet('willy')
 ```
 
+#### Usar *None* para hacer un argumento opcional
+
+```python
+def describe_pet(animal, name=None)
+	print("\nI have a " + animal + ".")
+	if name:
+		print("Its name is " + name + ".")
+
+describe_pet('hamster', 'harry')
+describe_pet('snake')
+```
+
+## 
