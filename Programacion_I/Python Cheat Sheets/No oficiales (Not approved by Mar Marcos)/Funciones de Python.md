@@ -36,12 +36,14 @@ make_pizza()
 make_pizza("pepperoni")
 ```
 
-#### Devolver un valor
-```python
-def add_numbers (x,y):
-	"""Add two numbers and return the sum."""
-	return x + y
+## Devolver un valor
 
-sum = add_numbers(3,5)
-print(sum)
+#### Usando un valor por defecto
+```python
+def describe_pet(name, animal = 'dog')
+	"""Display info about pet"""
+	print("\nI have a "+ animal + ".")
+	print("Its name is " + name + ".")
+
 ```
+
