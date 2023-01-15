@@ -2,5 +2,6 @@
   "obsidian-prism-theme@@color-schemes-lt": "pt-color-scheme-swan-lt",
   "obsidian-prism-theme@@pt-fade-inactive-tabs": true,
   "obsidian-prism-theme@@pt-status-bar-style": "pt-status-bar-position-floating",
-  "obsidian-prism-theme@@pt-fixed-status-bar-align": "pt-fixed-status-bar-align-right"
+  "obsidian-prism-theme@@pt-fixed-status-bar-align": "pt-fixed-status-bar-align-right",
+  "o-theme-settings@@o-colorful-headings": false
 }
