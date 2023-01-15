@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion_I/Cheat Sheets/No oficiales/Trabajando con archivos.md",
+                "file": "Programacion_I/Programación_I.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,14 +86,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion_I/Cheat Sheets/No oficiales/Trabajando con archivos.md",
+                "file": "Programacion_I/Programación_I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion_I/Cheat Sheets/No oficiales/Trabajando con archivos.md",
+                "file": "Programacion_I/Programación_I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +126,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion_I/Cheat Sheets/No oficiales/Trabajando con archivos.md"
+                "file": "Programacion_I/Programación_I.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,15 +149,15 @@
   },
   "active": "b06876aa6b8bf52a",
   "lastOpenFiles": [
+    "Programacion_I/Cheat Sheets/Oficiales/Matrices.md",
+    "Programacion_I/Programación_I.md",
+    "Test.md",
     "Programacion_I/Cheat Sheets/No oficiales/Trabajando con archivos.md",
+    "Programacion_I/Cheat Sheets/No oficiales/Clases.md",
     "Nota.md",
     "README.md",
-    "Programacion_I/Cheat Sheets/Oficiales/Matrices.md",
     "Info_Basica/TE06 II - Redes.md",
-    "Programacion_I/Cheat Sheets/No oficiales/Clases.md",
     "2023-01-15.md",
-    "Programacion_I/Cheat Sheets/No oficiales/Untitled.canvas",
-    "Test.md",
-    "Info_Basica/Presentación Los roguelikes y el valor de las horas de juego.md"
+    "Programacion_I/Cheat Sheets/No oficiales/Untitled.canvas"
   ]
 }
