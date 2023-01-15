@@ -8,31 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c5ea6a76edbd716",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0196ff7789ed3d90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Programacion_I/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion_I/Untitled.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion_I/Untitled.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion_I/Untitled.md"
+                "file": "Untitled.canvas"
               }
             }
           }
@@ -159,8 +150,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb3aaebab058f7a6",
+  "active": "0196ff7789ed3d90",
   "lastOpenFiles": [
+    "Programacion_I/Untitled.md",
     "README.md",
     "Untitled.md"
   ]
