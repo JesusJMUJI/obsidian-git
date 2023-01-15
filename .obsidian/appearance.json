@@ -5,6 +5,7 @@
   "monospaceFontFamily": "JetBrains Mono,Cascadia Code",
   "translucency": false,
   "nativeMenus": false,
-  "cssTheme": "",
-  "baseFontSize": 16
+  "cssTheme": "GitHub theme",
+  "baseFontSize": 16,
+  "theme": "moonstone"
 }
