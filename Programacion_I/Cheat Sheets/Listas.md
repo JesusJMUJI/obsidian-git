@@ -12,5 +12,6 @@ while num_input > 0:
 	nump_input = num_input // 10
 	lista = [resto] + lista
 
-print(lista) 
+print(lista) // print(lista es {0} es {1}.format(num_input,lista))
+# 
 ```

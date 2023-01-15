@@ -3,7 +3,7 @@
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
   "monospaceFontFamily": "JetBrains Mono",
-  "translucency": true,
+  "translucency": false,
   "nativeMenus": false,
   "cssTheme": ""
 }
