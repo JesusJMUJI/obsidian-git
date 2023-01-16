@@ -1,5 +1,7 @@
 # TE06 II - Redes
 
+#info_basica 
+
 ---
 
 Kurose empieza de arriba a abajo (bits, cables a aplicaciones)

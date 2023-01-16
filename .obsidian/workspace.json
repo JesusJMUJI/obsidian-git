@@ -11,13 +11,8 @@
             "id": "759f056483aa5f98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Funciones de Python.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -32,7 +27,7 @@
       {
         "id": "2bfc0fd0ad47d336",
         "type": "tabs",
-        "dimension": 28.869047619047617,
+        "dimension": 28.869047619047613,
         "children": [
           {
             "id": "fc77708b047df97c",
@@ -106,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Funciones de Python.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Funciones de Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Funciones de Python.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -175,15 +166,15 @@
   },
   "active": "759f056483aa5f98",
   "lastOpenFiles": [
-    "README.md",
+    "Info_Basica/Presentación Los roguelikes y el valor de las horas de juego.md",
+    "Info_Basica/TE06 II - Redes.md",
+    "Info_Basica/TE06 - Introducción a las redes de computadoras I.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Funciones de Python.md",
+    "README.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Listas.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Clases de Python.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Bucles 'While'.md",
-    "Programacion_I/Programación_I.md",
-    "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Trabajando con archivos.md",
-    "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Ar.md",
-    "Programacion_I/Python Cheat Sheets/Oficiales (Mar Marcos Approved)/Matrices.md"
+    "Programacion_I/Programación_I.md"
   ]
 }

@@ -1,4 +1,5 @@
 # TE06 - Introducción a las redes de computadoras I
+#info_basica 
 
 ---
 

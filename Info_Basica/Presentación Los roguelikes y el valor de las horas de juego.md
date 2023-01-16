@@ -1,5 +1,7 @@
 # Presentación: Los roguelikes y el valor de las horas de juego
 
+#info_basica 
+
 > *¿Necesitan los indies ser un roguelike para triunfar?*
 > 
 
