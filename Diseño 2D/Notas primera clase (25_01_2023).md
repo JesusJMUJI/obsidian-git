@@ -20,8 +20,12 @@ Evalucion continua: 60%
 
 Evaluacion parte practica
 
-|Arte 60% | Juego 40%
-Grupo 20% | Individual 80% | Individual 100%|
+|Arte 60% | Juego 40% |
+|------------|----------------|----------------|-----------------|
+|Grupo 20% | Individual 80% | Individual 100%|
+|Entrega final|Practias 50% (eval continua) | Entrega final 50% | Practicas 50% | Nose que|
+
+
 
 ---
 ## Presentación
