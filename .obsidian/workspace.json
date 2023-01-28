@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "759f056483aa5f98",
+            "id": "c952aabc84e15256",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md",
+                "file": "Fisica presentacion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md",
+                "file": "Fisica presentacion.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md",
+                "file": "Fisica presentacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,12 +135,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md"
+                "file": "Fisica presentacion.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "112fb6b19237a9e4",
@@ -161,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,17 +173,17 @@
       "canvas:Create new canvas": true
     }
   },
-  "active": "759f056483aa5f98",
+  "active": "fc77708b047df97c",
   "lastOpenFiles": [
+    "Diseño 2D/Notas primera clase (25_01_2023).md",
+    "Diseño 2D/Master.md",
+    "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Bucles 'While'.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md",
+    "Programacion.md",
+    "README.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Clases de Python.md",
     "Programacion_I/Programación_I.md",
     "Info_Basica/Presentación Los roguelikes y el valor de las horas de juego.md",
-    "Info_Basica/TE06 II - Redes.md",
-    "Info_Basica/TE06 - Introducción a las redes de computadoras I.md",
-    "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Funciones de Python.md",
-    "README.md",
-    "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Listas.md",
-    "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Bucles 'While'.md"
+    "Info_Basica/TE06 II - Redes.md"
   ]
 }
