@@ -106,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md"
+              }
             }
           }
         ],
@@ -169,7 +173,7 @@
       "canvas:Create new canvas": true
     }
   },
-  "active": "7ad0f61c97dc56e1",
+  "active": "759f056483aa5f98",
   "lastOpenFiles": [
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Clases de Python.md",
