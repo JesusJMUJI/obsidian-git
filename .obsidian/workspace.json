@@ -106,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -173,8 +169,9 @@
       "canvas:Create new canvas": true
     }
   },
-  "active": "759f056483aa5f98",
+  "active": "7ad0f61c97dc56e1",
   "lastOpenFiles": [
+    "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Clases de Python.md",
     "Programacion_I/Programación_I.md",
     "Info_Basica/Presentación Los roguelikes y el valor de las horas de juego.md",
@@ -183,7 +180,6 @@
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Funciones de Python.md",
     "README.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Listas.md",
-    "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Bucles 'While'.md"
   ]
 }
