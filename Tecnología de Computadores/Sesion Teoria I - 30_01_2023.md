@@ -26,9 +26,13 @@ El número de cargas positivas se denomina número atómico (Z) y determina el e
 Según este número atómico se clasifican en la tabla periódica. 
 ![[Tabla periodica.png]]
 
-Las propiedades de un elemento se determinan por el numero de electrones en su capa externa:
-* Un átomo con pocos electrones se demoninan **Conductores**. Gran capacidad para perder o compartir electrones con otros átomos.
+Las propiedades de un elemento se determinan por el número de electrones en su capa externa:
+* Un átomo con pocos electrones se denominan **Conductores**. Gran capacidad para perder o compartir electrones con otros átomos.
 	Ejemplo: Metales
-* Un atomo con muchos electrones en la capa externa prefieren no compartir electrones y se denominan como **AISLANTES**.
+* Un átomo con muchos electrones en la capa externa prefieren no compartir electrones y se denominan como **AISLANTES**.
 * Semiconductores y superconductores son casos particulares. 
 
+### La corriente eléctrica
+Desplazamiento de electrones mediante un material conductor. 
+
+para que se produzca se necesita una fouerza electromotriz o una diferencia de potencia. Medida en 
