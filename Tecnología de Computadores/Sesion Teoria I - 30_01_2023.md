@@ -38,4 +38,8 @@ Desplazamiento de electrones mediante un material conductor.
 * Para que se produzca se necesita una fuerza electromotriz o una diferencia de potencia. Medida en voltaje y se mide en Voltios (V).
 * La cantidad de cargas eléctricas desplazadas se denomina carga y se mide en Voltios (V).
 * La cantidad de carga que atraviesa un punto por unidad de tiempo se denomina corriente y se mide en Amperios (A). 
-* La oposición al paso de la corriente es la resistencia que se mide en Ohmios ()
+* La oposición al paso de la corriente es la resistencia que se mide en Ohmios (Ω)
+
+Alessandro Volta / Luigi Galvani crearon el primer generador eléctrico; la pila eléctrica. 
+La unidad de medida de la fuerza electromotriz de un generador se llama Voltio, en honor a su creador. 
+
