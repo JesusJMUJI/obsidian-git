@@ -69,5 +69,6 @@ $$
 ![[Simil_Hidraulico.png]]
 
 ### Asociación en Serie
+
 ![[Asociacion en Serie.png]]
 
