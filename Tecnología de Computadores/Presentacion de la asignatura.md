@@ -11,4 +11,11 @@ Notas:
 Temario:
 * Bloque 1:
 	* Teoría Circuitos
-	* S
+	* Semiconductores
+	* Dispo. Anagólogicos y Digitales
+	* Dispositivos fotónicos
+* Bloque 2: 
+	* Elementos del comput.
+	* Funcionamiendo del procs.
+	* Condicionales
+	* Sun
