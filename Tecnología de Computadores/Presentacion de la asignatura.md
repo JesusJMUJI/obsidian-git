@@ -64,6 +64,7 @@ Notas:
 * 15 de mayo en horario teoría (Bloque II)
 * Aprobado si 7 sobre 10
 * Al aprobar, descarta materia del bloque con calificacion obtenida menor de 2 puntos.
+* Examenes NO finales son tipo test
 
 ### Primera y segunda convocatoria
 Fechas en SIA
