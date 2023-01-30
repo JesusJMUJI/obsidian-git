@@ -7,7 +7,7 @@
 * [[#La corriente eléctrica]]
 * [[#Ley de Ohm]]
 * [[#Asociación en Serie]]
-* Leyes de Kirchhoff
+* [[#Leyes de Kirchoff]]
 * Ley de Watt
 
 ### Estructura electrónica
@@ -85,5 +85,11 @@ $$
 ![[Nodos.png]]
 $$
 I_1 + (-I_2) + I_3 + (-I_4) + (-I_5) = 0
+$$
+
+![[Circuito.png]]
+
+$$
+AV_1 + AV_2 + AV_3 + AV_4 + (-Vout) = 0
 $$
 
