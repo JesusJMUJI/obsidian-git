@@ -47,9 +47,10 @@ Notas:
 ### Evaluación
 * **Entregables (10%)**
 	Cuestionario de 10 preguntas tipo test
-* Eval. prácicas laboratorio (20%)
-* Trabajo en grupo (10%)
-* Examen final / objetivos básicos (60%)
+* **Eval. prácicas laboratorio (20%)**
+	* Grupos de dos personas
+* **Trabajo en grupo (10%)**
+* **Examen final / objetivos básicos (60%)**
 
 	##### Criterios
 	* Media ponderada de 5 o más de 10*
