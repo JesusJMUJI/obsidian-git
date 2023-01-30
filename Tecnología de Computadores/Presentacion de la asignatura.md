@@ -45,8 +45,8 @@ Notas:
 	* Desarrollo de programas
 
 ### Evaluación
-* Entregables (10%)
-Cuesti
+* **Entregables (10%)**
+	Cuestionario de 10 preguntas tipo test
 * Eval. prácicas laboratorio (20%)
 * Trabajo en grupo (10%)
 * Examen final / objetivos básicos (60%)
