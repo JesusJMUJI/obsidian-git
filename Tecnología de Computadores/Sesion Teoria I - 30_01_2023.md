@@ -59,3 +59,6 @@ Establece que la "diferencia de potencia producida una corriente al atravesar un
 > I = V / R
 > R = V / I
 
+#### Símil hidráulico
+
+![[Simil_Hidraulico.png]]
