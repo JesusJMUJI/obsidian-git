@@ -54,10 +54,16 @@ Su unidad de medida es el Ohm (Ω)
 
 ### Ley de Ohm
 Establece que la "diferencia de potencia producida una corriente al atravesar una resistencia es igual al producto de la corriente por la resistencia"
+$$
+V = I * R
+$$
+$$
+I = V / R
+$$
 
-> V = I * R
-> I = V / R
-> R = V / I
+$$
+R = V / I
+$$
 
 #### Símil hidráulico
 
