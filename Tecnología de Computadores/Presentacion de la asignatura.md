@@ -46,6 +46,7 @@ Notas:
 
 ### Evaluación
 * Entregables (10%)
+Cuesti
 * Eval. prácicas laboratorio (20%)
 * Trabajo en grupo (10%)
 * Examen final / objetivos básicos (60%)
@@ -56,4 +57,6 @@ Notas:
 
 ## Exámenes
 
-### Objetivos Bás
+### Objetivos Básicos
+
+### Primera y segunda convocatoria
