@@ -13,7 +13,7 @@
 ### Estructura electrónica
 * Átomos → partíulas más pequeñas.
 * Materiales formados por átomos → Elementos
-* Se conocen 118 elementos diferentes
+* Se conocen <u>118 elementos</u> diferentes
 Los átomos mantienen las características de un elemento y se representan con la tabla periódica. 
 
 Se distinguen dos partes: 
@@ -22,4 +22,5 @@ Se distinguen dos partes:
 	La masa de los electrones es mucho más pequeña. 
 
 Los átomos poseen igual número de protones que de electrones, otorga carga nula. 
-El número de car
+El número de cargas positivas se denomina número atómico (Z) y determina el elemento. 
+Según este número atómico se clasifican en la tabla periódica. 
