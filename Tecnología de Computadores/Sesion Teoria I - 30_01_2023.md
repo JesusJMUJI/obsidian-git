@@ -99,3 +99,6 @@ La potencia generada o consumida por un producto eléctrico es igual al producto
 $$
 P = V * I
 $$
+
+![[Magnitudes_Electricas.png]]
+
