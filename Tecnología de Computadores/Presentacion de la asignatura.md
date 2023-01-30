@@ -36,4 +36,10 @@ Notas:
 * Funcionamiento del procesador*
 	* Introducción QtARMSim
 	* Operaciones básicas
-	* Transferencias d
+	* Transferencias de datos
+* Condicionales y bucles
+	* ***
+* Subrutinas
+	* Intro. Subrutinas
+	* Gestión Subrutinas
+	* Desarrollo de programas
