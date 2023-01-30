@@ -76,6 +76,6 @@ $$
 
 ![[Asociacion en paralelo.png]]
 
-$$
-I = VOut // R_1 
-$$
+### Leyes de Kirchoff
+* Gustav Kirchoff
+* Como se van conservar dos magnitudes 
