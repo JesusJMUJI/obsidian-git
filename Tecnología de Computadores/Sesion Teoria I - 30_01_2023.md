@@ -24,3 +24,5 @@ Se distinguen dos partes:
 Los átomos poseen igual número de protones que de electrones, otorga carga nula. 
 El número de cargas positivas se denomina número atómico (Z) y determina el elemento. 
 Según este número atómico se clasifican en la tabla periódica. 
+![[Tabla periodica.png]]
+
