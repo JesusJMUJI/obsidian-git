@@ -43,15 +43,19 @@ Desplazamiento de electrones mediante un material conductor.
 Alessandro Volta / Luigi Galvani crearon el primer generador eléctrico; la pila eléctrica. 
 La unidad de medida de la fuerza electromotriz de un generador se llama Voltio, en honor a su creador. 
 
-Charles-Agustín de Coulomb, estudiño la interacción entre cargas electricas. 
-Inventó la baalnza de torsión que permite medir fuerzas de atracción o repulsión entre dos cargas elecétricas. Se establaeció la Ley de Coulomb y la unidad de medida Culombio (C)
+Charles-Agustín de Coulomb, estudio la interacción entre cargas eléctricas. 
+Inventó la balanza de torsión que permite medir fuerzas de atracción o repulsión entre dos cargas eléctricas. Se estableció la Ley de Coulomb y la unidad de medida Culombio (C)
 
 André-Marie Ampere; analizó la relación entre electricidad y magnetismo, creó la regla de la mano derecha. 
-Enunció la ley de la electrodinámia, y se creó el Amperio (A)
+Enunció la ley de la electrodinámica, y se creó el Amperio (A)
 
-Georg Simon Ohm. Ley de Ohm establece la relación entre corriente, voltaje y resistencia de un cirucito. 
-Su unindad de medida es el Ohm (Ω)
+Georg Simon Ohm. Ley de Ohm establece la relación entre corriente, voltaje y resistencia de un circuito. 
+Su unidad de medida es el Ohm (Ω)
 
 ### Ley de Ohm
-Estblace que la "diferencia de potencia producida una corriente al atravesar una resistencia es ogual al producto de la corriente por la resistencia"
+Establece que la "diferencia de potencia producida una corriente al atravesar una resistencia es igual al producto de la corriente por la resistencia"
+
+> V = I * R
+> I = V / R
+> R = V / I
 
