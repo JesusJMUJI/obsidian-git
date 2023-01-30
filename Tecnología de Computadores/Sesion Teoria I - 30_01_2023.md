@@ -4,7 +4,7 @@
 
 ## Índice
 * [[#Estructura electronica]]
-* Historia de la electricidad
+* [[#La corriente eléctrica]]
 * Ley de Ohm
 * Asociación de resistencias
 * Leyes de Kirchhoff
@@ -35,4 +35,7 @@ Las propiedades de un elemento se determinan por el número de electrones en su 
 ### La corriente eléctrica
 Desplazamiento de electrones mediante un material conductor. 
 
-para que se produzca se necesita una fouerza electromotriz o una diferencia de potencia. Medida en 
+* Para que se produzca se necesita una fuerza electromotriz o una diferencia de potencia. Medida en voltaje y se mide en Voltios (V).
+* La cantidad de cargas eléctricas desplazadas se denomina carga y se mide en Voltios (V).
+* La cantidad de carga que atraviesa un punto por unidad de tiempo se denomina corriente y se mide en Amperios (A). 
+* La oposición al paso de la corriente es la resistencia que se mide en Ohmios ()
