@@ -8,7 +8,7 @@ Lab:
 Notas:
 * Procesaor y memoria son importantes
 
-Temario:
+### Temario:
 * Bloque 1:
 	* Teoría Circuitos
 	* Semiconductores
@@ -18,4 +18,6 @@ Temario:
 	* Elementos del comput.
 	* Funcionamiendo del procs.
 	* Condicionales
-	* Sun
+	* Sunrutinas
+	* Jerarquía de memoria
+
