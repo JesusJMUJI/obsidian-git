@@ -5,7 +5,7 @@
 ## Índice
 * [[#Estructura electronica]]
 * [[#La corriente eléctrica]]
-* Ley de Ohm
+* [[#Ley de Ohm]]
 * Asociación de resistencias
 * Leyes de Kirchhoff
 * Ley de Watt
@@ -47,4 +47,11 @@ Charles-Agustín de Coulomb, estudiño la interacción entre cargas electricas.
 Inventó la baalnza de torsión que permite medir fuerzas de atracción o repulsión entre dos cargas elecétricas. Se establaeció la Ley de Coulomb y la unidad de medida Culombio (C)
 
 André-Marie Ampere; analizó la relación entre electricidad y magnetismo, creó la regla de la mano derecha. 
-Enunció la ley de la electrodinámia, 
+Enunció la ley de la electrodinámia, y se creó el Amperio (A)
+
+Georg Simon Ohm. Ley de Ohm establece la relación entre corriente, voltaje y resistencia de un cirucito. 
+Su unindad de medida es el Ohm (Ω)
+
+### Ley de Ohm
+Estblace que la "diferencia de potencia producida una corriente al atravesar una resistencia es ogual al producto de la corriente por la resistencia"
+
