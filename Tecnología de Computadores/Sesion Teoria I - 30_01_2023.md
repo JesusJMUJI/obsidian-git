@@ -60,7 +60,6 @@ $$
 $$
 I = V / R
 $$
-
 $$
 R = V / I
 $$
@@ -68,3 +67,7 @@ $$
 #### Símil hidráulico
 
 ![[Simil_Hidraulico.png]]
+
+### Asociación en Serie
+![[Asociacion en Serie.png]]
+
