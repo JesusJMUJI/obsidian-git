@@ -6,7 +6,7 @@
 * [[#Estructura electronica]]
 * [[#La corriente eléctrica]]
 * [[#Ley de Ohm]]
-* Asociación de resistencias
+* [[#Asociación en Serie]]
 * Leyes de Kirchhoff
 * Ley de Watt
 
@@ -71,4 +71,8 @@ $$
 ### Asociación en Serie
 
 ![[Asociacion en Serie.png]]
+
+### Asociación en paralelo
+
+![[Asociacion en paralelo.png]]
 
