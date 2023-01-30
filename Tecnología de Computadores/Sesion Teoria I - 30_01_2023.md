@@ -43,3 +43,8 @@ Desplazamiento de electrones mediante un material conductor.
 Alessandro Volta / Luigi Galvani crearon el primer generador eléctrico; la pila eléctrica. 
 La unidad de medida de la fuerza electromotriz de un generador se llama Voltio, en honor a su creador. 
 
+Charles-Agustín de Coulomb, estudiño la interacción entre cargas electricas. 
+Inventó la baalnza de torsión que permite medir fuerzas de atracción o repulsión entre dos cargas elecétricas. Se establaeció la Ley de Coulomb y la unidad de medida Culombio (C)
+
+André-Marie Ampere; analizó la relación entre electricidad y magnetismo, creó la regla de la mano derecha. 
+Enunció la ley de la electrodinámia, 
