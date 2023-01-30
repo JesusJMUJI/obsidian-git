@@ -32,3 +32,8 @@ Notas:
 	* Conv. D/A
 	* Conv. A/D
 
+### Laboratorio (II)
+* Funcionamiento del procesador*
+	* Introducción QtARMSim
+	* Operaciones básicas
+	* Transferencias d
