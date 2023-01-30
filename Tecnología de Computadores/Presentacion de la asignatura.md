@@ -48,4 +48,7 @@ Notas:
 * Entregables (10%)
 * Eval. prácicas laboratorio (20%)
 * Trabajo en grupo (10%)
-* Examen final / o
+* Examen final / objetivos básicos (60%)
+
+	##### Criterios
+	* Media ponder*
