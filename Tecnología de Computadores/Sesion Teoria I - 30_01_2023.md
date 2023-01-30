@@ -78,4 +78,6 @@ $$
 
 ### Leyes de Kirchoff
 * Gustav Kirchoff
-* Como se van conservar dos magnitudes 
+* Como se van a conservar dos magnitudes en unos circuitos (normalmente voltaje)
+* La primera ley (Ley de Kirchoff): establece en un nodo, la suma de dos corrientes que entran y salen del mismo es nula. 
+* La segunda ley (Ley de Tensiones): establece suma algebraica de las caídas de potencial en un lazo cerrado, es nula.  
