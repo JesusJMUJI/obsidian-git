@@ -11,3 +11,5 @@
 * Ley de Watt
 
 ### Estructura electronica
+Atómos -> partíulas más pequeñas.
+Materiales formados por átomos -> Elementos
