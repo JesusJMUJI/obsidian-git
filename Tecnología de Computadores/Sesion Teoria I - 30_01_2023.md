@@ -8,7 +8,7 @@
 * [[#Ley de Ohm]]
 * [[#Asociación en Serie]]
 * [[#Leyes de Kirchoff]]
-* Ley de Watt
+* [[#Ley de Watt]]
 
 ### Estructura electrónica
 * Átomos → partíulas más pequeñas.
@@ -93,3 +93,9 @@ $$
 AV_1 + AV_2 + AV_3 + AV_4 + (-Vout) = 0
 $$
 
+### Ley de Watt
+
+La potencia generada o consumida por un producto eléctrico es igual al producto de la tensión por la corriente. 
+$$
+P = V * I
+$$
