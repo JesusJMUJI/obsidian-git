@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "43bac1a15306fd85",
+        "id": "814ca328e58a23f1",
         "type": "tabs",
         "children": [
           {
-            "id": "c952aabc84e15256",
+            "id": "7150a1bddafd62ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diseño 2D/Notas primera clase (25_01_2023).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -32,7 +27,7 @@
       {
         "id": "2bfc0fd0ad47d336",
         "type": "tabs",
-        "dimension": 28.869047619047613,
+        "dimension": 39.375,
         "children": [
           {
             "id": "fc77708b047df97c",
@@ -65,7 +60,7 @@
       {
         "id": "3327830b43ddad15",
         "type": "tabs",
-        "dimension": 71.13095238095238,
+        "dimension": 60.62499999999999,
         "children": [
           {
             "id": "cb3aaebab058f7a6",
@@ -106,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diseño 2D/Notas primera clase (25_01_2023).md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diseño 2D/Notas primera clase (25_01_2023).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Diseño 2D/Notas primera clase (25_01_2023).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -173,11 +164,11 @@
       "canvas:Create new canvas": true
     }
   },
-  "active": "c952aabc84e15256",
+  "active": "fc77708b047df97c",
   "lastOpenFiles": [
+    "Diseño 2D/Notas primera clase (25_01_2023).md",
     "Diseño 2D/Master.md",
     "Fisica presentacion.md",
-    "Diseño 2D/Notas primera clase (25_01_2023).md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/Bucles 'While'.md",
     "Programacion_I/Python Cheat Sheets/No oficiales (Not approved by Mar Marcos)/IF statements.md",
     "Programacion.md",
