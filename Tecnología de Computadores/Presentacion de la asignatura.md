@@ -24,4 +24,11 @@ Notas:
 ### Laboratorio (I)
 * Teoría de circuitos*
 	* QUCS. Ley Ohm
-	* Asociacion paralelo, serie y Leyes Ki
+	* Asociacion paralelo, serie y Leyes Kirchoff
+* Semiconductores
+	* Diodo
+	* Transistor
+* Disp. Analógicos y Digitales
+	* Conv. D/A
+	* Conv. A/D
+
