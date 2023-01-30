@@ -20,3 +20,6 @@ Se distinguen dos partes:
 * Núcleo: Se encuentra el centro del átomo. Contiene la mayor parte de la masa del átomo. Se encuentran los protones (carga negativa) y los neutrones (carga positiva). 
 * Corteza: se encuentran los electrones, con carga negativa y se mueve alrededor del núcleo. 
 	La masa de los electrones es mucho más pequeña. 
+
+Los átomos poseen igual número de protones que de electrones, otorga carga nula. 
+El número de car
