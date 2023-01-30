@@ -45,3 +45,7 @@ Notas:
 	* Desarrollo de programas
 
 ### Evaluación
+* Entregables (10%)
+* Eval. prácicas laboratorio (20%)
+* Trabajo en grupo (10%)
+* Examen final / o
