@@ -51,4 +51,9 @@ Notas:
 * Examen final / objetivos básicos (60%)
 
 	##### Criterios
-	* Media ponder*
+	* Media ponderada de 5 o más de 10*
+	* Nota mínima de 3 sobre 10 en cada apartado
+
+## Exámenes
+
+### Objetivos Bás
