@@ -76,3 +76,6 @@ $$
 
 ![[Asociacion en paralelo.png]]
 
+$$
+I = VOut // R_1 
+$$
