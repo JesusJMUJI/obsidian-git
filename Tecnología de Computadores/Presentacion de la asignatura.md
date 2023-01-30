@@ -21,3 +21,7 @@ Notas:
 	* Sunrutinas
 	* Jerarquía de memoria
 
+### Laboratorio (I)
+* Teoría de circuitos*
+	* QUCS. Ley Ohm
+	* Asociacion paralelo, serie y Leyes Ki
