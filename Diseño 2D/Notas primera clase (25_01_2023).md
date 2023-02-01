@@ -1,5 +1,5 @@
 #diseño2d 
- [[Master]]]
+ [[Diseño 2D]]
 
 ---
 Profesora Teoria: Crisitina (Tutorias: Prefiere e-mail)
