@@ -1,4 +1,4 @@
-[[Diseño 2D]]
+[[Diseño 2D]] 
 
 **1. ¿Qué relación hay entre el tamaño en píxeles de una imagen y su tamaño de impresión?**
 	Se relacionan mediante la fórmula:
