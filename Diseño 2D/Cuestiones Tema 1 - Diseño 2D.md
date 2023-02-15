@@ -5,7 +5,11 @@
 		$$
 	Resolución (ppp)= \frac {nºpixeles}{tamaño. Píxeles }
 	$$
+
+*Es la relacion entre las digitales y las físicas*
+
 **2. ¿Cuál sería el tamaño de imagen más adecuado para una impresión de 3x4 pulgadas en una impresora de 150 ppp?** 
+*1 pulgada = 2,54cm*
 	La resolución de la imagen sería 450x600 píxeles. 
 	$$
 	AnchoImágen = AnchoImpresion * Resolucion(ppp) 
