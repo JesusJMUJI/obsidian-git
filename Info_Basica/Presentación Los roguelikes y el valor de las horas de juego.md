@@ -41,9 +41,9 @@ Esto sentó mal a los jugadores que compraron tanto el juego como los que apoyar
 > *Yo jugué a ambos juegos que acabo de describir y aunque ambos juegos los jugué “sin pagar”, el sentimiento al completar Scorn y ver que solo me había durado 4 horas fue algo decepcionante. Esto me llevo a cuestionarme que pueden hacer los estudios más pequeños para poder sobrevivir, especialmente con el sentimiento de los jugadores que pagar por videojuego te genera unas expectativas.*
 > 
 
-![Untitled](Presentacio%CC%81n%20Los%20roguelikes%20y%20el%20valor%20de%20las%20hor%20a4eb9ca6a913438f89c486d1c9a1bacb/Untitled.png)
+![Untitled](Info_Basica/Presentación%20Los%20roguelikes%20y%20el%20valor%20de%20las%20horas/Untitled.png)
 
-![Untitled](Presentacio%CC%81n%20Los%20roguelikes%20y%20el%20valor%20de%20las%20hor%20a4eb9ca6a913438f89c486d1c9a1bacb/Untitled%201.png)
+![Untitled](Untitled%201.png)
 
 ## El caso de Cult of the Lamb
 
@@ -71,9 +71,9 @@ Hay algunos casos en que esta jugabilidad está bien implementada, por ejemplo:
     
     
 
-![Untitled](Presentacio%CC%81n%20Los%20roguelikes%20y%20el%20valor%20de%20las%20hor%20a4eb9ca6a913438f89c486d1c9a1bacb/Untitled%202.png)
+![Untitled](Untitled%202.png)
 
-![Untitled](Presentacio%CC%81n%20Los%20roguelikes%20y%20el%20valor%20de%20las%20hor%20a4eb9ca6a913438f89c486d1c9a1bacb/Untitled%203.png)
+![Untitled](Untitled%203.png)
 
 ## Conclusión (breve)
 
