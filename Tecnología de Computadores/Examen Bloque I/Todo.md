@@ -29,8 +29,12 @@ $$
 	Es común la tensión, repartiéndose la Intensidad de forma INVERSAMENTE proporcional al valor de cada resistencia. 
 
 7. Magnitudes físicas equivalentes entre si al utilizar el simil hidraulico al explicar la electricidad:
-	Presión con tensión, calibre de la tubería (embergadi)
-8. 
+	Presión con tensión, calibre de la tubería (embergadura) y flujo con intensidad
+
+8. En que consiste la corriente eléctrica:
+	Desplazamiento de electrones en el seno de un material conductor. 
+
+9. Cual es la magnitud física que indica la cantidad de carga que atraviesa un pubnt
 
 ----
 
