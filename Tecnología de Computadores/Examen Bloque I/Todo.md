@@ -165,4 +165,9 @@ $$
 	La cantidad de energía que necesoitan los electrones para pasar a la bnanda de conducción es menor. 
 
 6. Un cristal de silicio puro puede conducir la electricidad si:
-	Sus electrones reciben suficie
+	Sus electrones reciben suficiente energía para escapar a los enlaces covalente que unen los átomos.
+
+7. ¿Que es el punto de ruptura de un diodo ideal?
+	El valor del voltaje de polarizacxión inversa necesario para que el diodo empiece a conducir electrocidad de forma notable. 
+
+8. ¿Diferencia 
