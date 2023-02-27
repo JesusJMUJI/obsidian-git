@@ -149,13 +149,5 @@ $$
 
 ## Cuestionario Tema 2:
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Los elmentos semiconductorres que se situan en la tabla periódica entre los metales y los no-metales.
+	Su capa más externa está medianamente poblada de ele
