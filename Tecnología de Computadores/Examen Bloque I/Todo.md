@@ -21,8 +21,12 @@ I_1 + (-I_2) + I_3 + (-I_4) + (-I_5) = 0
 $$
 4. Categorías en las que se dividen los elementos según su conductividad eléctrica:
 	Conductores, aislantes, semiconductores y superconductores. 
-1. 
 
+5. Como se calcula la potencia disipada por un dispositivo electrico o electronico y en que unidades se mide:
+	Se calcula como el producto de la tensión por la intensidad (V.i) y se mide en Watts (W).
+	$$ P = V*I$$
+6. Qué magnitud eléctrica es común en varias resistencias en paralelo:
+	Es común la tensión, repartiéndose la Intensidad de forma INVERSAMENTE proporcional al valor de cada resistencia. 
 
 ## Índice
 * [[#Estructura electronica]]
