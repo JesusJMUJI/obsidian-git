@@ -9,7 +9,7 @@ tags: obsidian-auto-glossary
 ***
 
 ## Glossary
-#### ![[Tema 5 - Elemtnos del computador]]
+#### ![[Tema 5 - Elementos del computador]]
 
 ***
 
