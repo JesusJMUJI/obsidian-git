@@ -76,3 +76,12 @@ Cada instruccion en ensamblador equivale a uns instruccion en máquina y se usa 
 ![[Rula de datos.png]]
 
 ### Organización de la memoria
+
+* Las instrucciones se almacen en la memoria como:
+	* Instrucciones
+	* Datos
+* Desde el punto de vista físico, se utiliza una estructura jerárquica:
+	* Registros
+	* Memoria Cache
+	* Memoria Principal
+	* Almacenamiento Secundario
