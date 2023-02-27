@@ -1,11 +1,9 @@
 ----
 
-[!SUMMARY]
+>[!SUMMARY]
+>[[#Arquitectura del procesador]]
+>
 
-
-[[#Arquitectura del procesador]]
-[[]]
-[[#]]
 
 ### Intro
 
@@ -25,4 +23,5 @@ Llevar a cabo un numero de tareas segun lo que dicte el programa.
 	* Codificación de los datos
 	* Excepciones
 	* Gestión Entrada / Salida
-* 
+
+#### Juego o repertorio de instrucciones
