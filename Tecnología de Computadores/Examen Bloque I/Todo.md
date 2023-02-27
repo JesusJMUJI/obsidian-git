@@ -34,7 +34,11 @@ $$
 8. En que consiste la corriente eléctrica:
 	Desplazamiento de electrones en el seno de un material conductor. 
 
-9. Cual es la magnitud física que indica la cantidad de carga que atraviesa un pubnt
+9. Cual es la magnitud física que indica la cantidad de carga que atraviesa un punto por unidad de tiempo?
+	Intensidad Eléctrica y se mide en Amperios (A)
+
+10. Que caracteristidca de los atomos de un elemento determina sus preopiedades electricas?
+	Numero delectrones en la capa externa de su corteza.
 
 ----
 
