@@ -150,4 +150,9 @@ $$
 ## Cuestionario Tema 2:
 
 1. Los elmentos semiconductorres que se situan en la tabla periódica entre los metales y los no-metales.
-	Su capa más externa está medianamente poblada de ele
+	Su capa más externa está medianamente poblada de electrones. 
+
+2. ¿En qué consiste el efecto transistor?
+	La correinte principal que circula entre el coelctor y emisor del transistor es moduñlada por la corriente que entra o sale por la base del mismo. 
+
+3. En un semicondductor se denominan huecos:
