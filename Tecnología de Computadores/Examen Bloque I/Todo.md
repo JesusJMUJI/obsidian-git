@@ -28,6 +28,8 @@ $$
 6. Qué magnitud eléctrica es común en varias resistencias en paralelo:
 	Es común la tensión, repartiéndose la Intensidad de forma INVERSAMENTE proporcional al valor de cada resistencia. 
 
+----
+
 ## Índice
 * [[#Estructura electronica]]
 * [[#La corriente eléctrica]]
