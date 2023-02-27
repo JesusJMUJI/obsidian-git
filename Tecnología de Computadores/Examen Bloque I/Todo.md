@@ -160,3 +160,9 @@ $$
 
 4. ¿Que es la beta de un transistor?
 	La proporcion entre la corriente de un colector y la corriente de base en la regiíon de conducción. 
+
+5. ¿Por qué un semiconduictgor dopado N conduce la electricidad mejor que uno que no?
+	La cantidad de energía que necesoitan los electrones para pasar a la bnanda de conducción es menor. 
+
+6. Un cristal de silicio puro puede conducir la electricidad si:
+	Sus electrones reciben suficie
