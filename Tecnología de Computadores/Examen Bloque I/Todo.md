@@ -156,3 +156,7 @@ $$
 	La correinte principal que circula entre el coelctor y emisor del transistor es moduñlada por la corriente que entra o sale por la base del mismo. 
 
 3. En un semicondductor se denominan huecos:
+	Los espacios dejados por los electrones que consiguen escapar de un átomo.
+
+4. ¿Que es la beta de un transistor?
+	La proporcion entre la corriente de un colector y la corriente de base en la regiíon de conducción. 
