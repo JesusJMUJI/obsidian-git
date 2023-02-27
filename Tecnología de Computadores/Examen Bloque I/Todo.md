@@ -28,6 +28,10 @@ $$
 6. Qué magnitud eléctrica es común en varias resistencias en paralelo:
 	Es común la tensión, repartiéndose la Intensidad de forma INVERSAMENTE proporcional al valor de cada resistencia. 
 
+7. Magnitudes físicas equivalentes entre si al utilizar el simil hidraulico al explicar la electricidad:
+	Presión con tensión, calibre de la tubería (embergadi)
+8. 
+
 ----
 
 ## Índice
