@@ -1,44 +1,9 @@
 ----
 [[#TEMA 1: Teoría de Circuitos]]
 *** 
+ 
 
 # TEMA 1: Teoría de Circuitos
-----
-## Cuestionario TEMA 1
-
-1. Relación entre tensión, intensidad y resistencia eléctrica de un circuito; en que consiste
-	Ley de OHM. La tensión es proporcional a la intensidad y la resistencia.
-	$$
-	V = I * R
-	$$
-2. Con resistencias en serie, la magnitud eléctrica más común y repartida entre estas de forma proporcional a sus respectivos valores es:
-	Son comunes la intensidad y se reparte la tensión.
-
-3. La Ley de Corrientes de Kirchoff establece que:
-	La suma de las corrientes que entran en un nodo es igual a la suma de las corrientes que salen de este nodo.
-	$$
-I_1 + (-I_2) + I_3 + (-I_4) + (-I_5) = 0
-$$
-4. Categorías en las que se dividen los elementos según su conductividad eléctrica:
-	Conductores, aislantes, semiconductores y superconductores. 
-
-5. Como se calcula la potencia disipada por un dispositivo electrico o electronico y en que unidades se mide:
-	Se calcula como el producto de la tensión por la intensidad (V.i) y se mide en Watts (W).
-	$$ P = V*I$$
-6. Qué magnitud eléctrica es común en varias resistencias en paralelo:
-	Es común la tensión, repartiéndose la Intensidad de forma INVERSAMENTE proporcional al valor de cada resistencia. 
-
-7. Magnitudes físicas equivalentes entre si al utilizar el simil hidraulico al explicar la electricidad:
-	Presión con tensión, calibre de la tubería (embergadura) y flujo con intensidad
-
-8. En que consiste la corriente eléctrica:
-	Desplazamiento de electrones en el seno de un material conductor. 
-
-9. Cual es la magnitud física que indica la cantidad de carga que atraviesa un punto por unidad de tiempo?
-	Intensidad Eléctrica y se mide en Amperios (A)
-
-10. Que caracteristidca de los atomos de un elemento determina sus preopiedades electricas?
-	Numero delectrones en la capa externa de su corteza.
 
 ----
 
@@ -143,31 +108,16 @@ $$
 ![[Magnitudes_Electricas.png]]
 
 
-
+----
 
 # Tema 2: SEMICONDUCTORES
 
-## Cuestionario Tema 2:
 
-1. Los elmentos semiconductorres que se situan en la tabla periódica entre los metales y los no-metales.
-	Su capa más externa está medianamente poblada de electrones. 
+# TEMA 3. Electrónica analógica y digital
 
-2. ¿En qué consiste el efecto transistor?
-	La correinte principal que circula entre el coelctor y emisor del transistor es moduñlada por la corriente que entra o sale por la base del mismo. 
 
-3. En un semicondductor se denominan huecos:
-	Los espacios dejados por los electrones que consiguen escapar de un átomo.
 
-4. ¿Que es la beta de un transistor?
-	La proporcion entre la corriente de un colector y la corriente de base en la regiíon de conducción. 
+----
 
-5. ¿Por qué un semiconduictgor dopado N conduce la electricidad mejor que uno que no?
-	La cantidad de energía que necesoitan los electrones para pasar a la bnanda de conducción es menor. 
+# TEMA 4: Dispositivos fotónicos
 
-6. Un cristal de silicio puro puede conducir la electricidad si:
-	Sus electrones reciben suficiente energía para escapar a los enlaces covalente que unen los átomos.
-
-7. ¿Que es el punto de ruptura de un diodo ideal?
-	El valor del voltaje de polarizacxión inversa necesario para que el diodo empiece a conducir electrocidad de forma notable. 
-
-8. ¿Diferencia 
