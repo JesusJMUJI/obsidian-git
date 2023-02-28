@@ -50,4 +50,3 @@ public bool Palidromo(string s)
 }
 
 ``` 
-dlkasndknasdnksjadswd
