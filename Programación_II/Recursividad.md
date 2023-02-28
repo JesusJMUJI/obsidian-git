@@ -50,3 +50,4 @@ public bool Palidromo(string s)
 }
 
 ``` 
+d
