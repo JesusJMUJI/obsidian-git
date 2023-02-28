@@ -41,8 +41,12 @@ public static void Euclides(int n, int m)
 
 #### Método de palídromo
 ```cs
-public static void Palidromo()
+public bool Palidromo(string s)
 {
-	
+	if (s.Lenght <= 1)
+	{
+		return true;
+	}
 }
+
 ```
