@@ -12,9 +12,9 @@ c)    Su masa at´omica.
 
 d)    El nu´mero de electrones de la capa m´as externa de su corteza.
 
-2.    ¿Qu´e magnitud el´ectrica equivale a la distancia entre la superficie del l´ıquido y el punto por el que emerge en el s´ımil hidr´aulico y en qu´e unidades se mide?
+**2.    ¿Qu´e magnitud el´ectrica equivale a la distancia entre la superficie del l´ıquido y el punto por el que emerge en el s´ımil hidr´aulico y en qu´e unidades se mide?**
 
-a)    El voltaje y se mide en Voltios (V).
+==a)    El voltaje y se mide en Voltios (V).==
 
 b)    La resistencia el´ectrica y se mide en Ohmios (Ohm).
 
