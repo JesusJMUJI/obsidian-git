@@ -2,9 +2,9 @@
 
 ----
 
-1.    ¿Qu´e propiedad de un a´tomo determina el elemento de que se trata?
+**1.    ¿Qu´e propiedad de un a´tomo determina el elemento de que se trata?**
 
-a)    Su nu´mero at´omico (Z), es decir el nu´mero de protones de su nu´cleo.
+==a)    Su nu´mero at´omico (Z), es decir el nu´mero de protones de su nu´cleo.==
 
 b)    Su nu´mero at´omico (Z), es decir el nu´mero de neutrones de su nu´cleo.
 
