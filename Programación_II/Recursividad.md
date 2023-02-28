@@ -60,10 +60,16 @@ public bool Palidromo(string s)
 ```cs
 public static int Fibonacco(int f)
 {
-	if (f = 1 || f = 2)
+	if (f < 3)
 	{
-		return 1
+		return 1;
 	}
+		/* if (f = 1 || f = 2)
+		{
+			return 1
+		}
+		*/
+		
 	else if (f > 2)
 	{
 		return Fibonacci(f - 1) + Fibonacci(f - 2)
