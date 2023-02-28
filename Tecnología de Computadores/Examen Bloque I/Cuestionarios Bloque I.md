@@ -1,3 +1,5 @@
+#examen_bloque_I
+
 ----
 
 ## Cuestionario TEMA 1
@@ -129,7 +131,7 @@ $$
 	Se necesita que la señal a convertir sea establece durante la conversión A/D.
 
 7. La necesidad de realizar conversiones A/D / D/A viene de:
-	Que vivimos en un mundo analógico y los ordenador manejan información digital.
+	Que vivimos en un mundo analógico y los ordenadores manejan información digital.
 
 8. Cuantos valores de conversión da lugar una cuantificación de 5 bits?
 	$$A32(2^5)$$
@@ -151,7 +153,7 @@ $$
 3. Si un electrón no puede absorber o emitir un fotón por una diferencia de momento, si quiere conseguir absorción o emisión se necesita:
 	Un fonón. 
 
-4. Las posibles interacciones de los semiconductores con los fotones de la radiacion electromagnética son:
+4. Las posibles interacciones de los semiconductores con los fotones de la radiación electromagnética son:
 	Absorción y emisión.
 
 5. ¿Qué propiedad de los fotones determina el color de la luz que constituyen?
