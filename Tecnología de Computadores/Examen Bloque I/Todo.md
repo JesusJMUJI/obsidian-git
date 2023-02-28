@@ -2,7 +2,6 @@
 [[#TEMA 1: Teoría de Circuitos]]
 *** 
  
-
 # TEMA 1: Teoría de Circuitos
 
 ----
