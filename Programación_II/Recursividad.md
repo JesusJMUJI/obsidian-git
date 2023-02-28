@@ -47,7 +47,10 @@ public bool Palidromo(string s)
 	{
 		return true;
 	}
+	if (s[0] != s[s.Lenght - 1])
+	{
+		return false;
+	}
+	return Palindromo(s.SubString(1,s.Lenght - 2));
 }
-
 ``` 
-dd
