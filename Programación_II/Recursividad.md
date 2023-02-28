@@ -54,3 +54,19 @@ public bool Palidromo(string s)
 	return Palindromo(s.SubString(1,s.Lenght - 2));
 }
 ``` 
+
+#### Método de Fibonacci
+
+```cs
+public static int Fibonacco(int f)
+{
+	if (f = 1 || f = 2)
+	{
+		return 1
+	}
+	else if (f > 2)
+	{
+		return Fibonacci(f - 1) + Fibonacci(f - 2)
+	}
+}
+```
