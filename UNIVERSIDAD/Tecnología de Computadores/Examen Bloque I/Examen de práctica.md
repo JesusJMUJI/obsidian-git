@@ -19,15 +19,19 @@ b) Un amperímetro, interrumpiendo el circuito e insertándolo de forma que la m
 d) Un amperímetro, aplicando simplemente los terminales de este en los extremos de la resistencia. 
 
 **4.    Si conectamos una resistencia a continuación de otra de diferente valor, formando la asociación denominada _«_ conexión en serie _»_, ¿que magnitud del circuito se conserva (su valor es idéntico para ambas resistencias) y cuál se suma (posee valores diferentes para cada resistencia) en el nuevo circuito?**
-a)    Se conserva la corriente que atraviesa ambas resistencias y se suma el voltaje. 
+==a)    Se conserva la corriente que atraviesa ambas resistencias y se suma el voltaje.== 
 b)    Se conserva el voltaje y se suma la corriente que atraviesa ambas resistencias. 
 c)    Se conserva la resistencia y se suma el voltaje. 
 d)    No se conserva ninguna magnitud y se suman tanto la corriente como el voltaje. 
 
+Explicación ChatGPT:
+La corriente eléctrica que fluye en las resistencias es la misma, se conserva la corriente. 
+
 **5.    Si en un circuito incrementamos el valor de una de las resistencias que lo componen, ¿qué repercusión tiene este cambio sobre los parámetros eléctricos relacionados con la misma?** 
 a)    El voltaje entre sus terminales puede incrementarse o mantenerse constante, nunca disminuir, y la corriente que la atraviesa se reduce. 
 b)    Tanto el voltaje entre sus terminales como la corriente que la atraviesa se reducen.
-c)    Tanto el voltaje entre sus terminales como la corriente que la atraviesa se incrementan. d)    No existe variación en ningún parámetro eléctrico relacionado con la resistencia modificada. 
+c)    Tanto el voltaje entre sus terminales como la corriente que la atraviesa se incrementan.
+d)    No existe variación en ningún parámetro eléctrico relacionado con la resistencia modificada. 
 
 **6.    ¿En lo concerniente al comportamiento eléctrico de la materia, que es el GAP?** a)    El salto de energía existente entre la banda de valencia y la banda de conducción de un átomo. 
 b)    La distancia existente entre la banda de valencia y la banda de conducción de un átomo. 

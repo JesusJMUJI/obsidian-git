@@ -49,7 +49,7 @@ Necesario: un hub / concentrador
 
 Los ordenadores se conectan al hub con un cable normal (*no cruzado*) 
 
-![Untitled](Info_Basica/TE06%20-%20Introducción%20a%20las%20redes%20de%20computadoras/Untitled.png)
+![Untitled](UNIVERSIDAD/Info_Basica/TE06%20-%20Introducción%20a%20las%20redes%20de%20computadoras/Untitled.png)
 
 ¿Cómo sabe un equipo que es para él?
 
