@@ -32,7 +32,7 @@ c)    Un volt´ımetro, interrumpiendo el circuito e insert´andolo de forma 
 
 d)    Un amper´ımetro, aplicando simplemente los terminales de ´este en los extremos de la resistencia.
 
-4.    Si conectamos una resistencia a continuaci´on de otra de diferente valor, formando la asociaci´on denominada **_«_**conexi´on en serie **_»_**, ¿qu´e magnitud del circuito se conserva (su valor es id´entico para ambas resistencias) y cu´al se suma (posee valores diferentes para cada resistencia) en el nuevo circuito?
+4.    Si conectamos una resistencia a continuaci´on de otra de diferente valor, formando la asociaci´on denominada **_«_conexion en serie _»_**, ¿qu´e magnitud del circuito se conserva (su valor es id´entico para ambas resistencias) y cu´al se suma (posee valores diferentes para cada resistencia) en el nuevo circuito?
 
 a)    Se conserva la corriente que atraviesa ambas resistencias y se suma el voltaje.
 
