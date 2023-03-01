@@ -55,8 +55,8 @@ c)    La técnica se denomina **_«_**extrínseca **_»_** y consiste en elim
 d)    La técnica se denomina **_«_**intrínseca **_»_** y consiste en contaminar el semiconductor con una mezcla de átomos con diferentes estructuras electrónicas.
 
 *Explicación:
-Se introducen inpurezas o átomos de dopante en cristal semiconductor. Crea huecos de electrones en la estructura del material. 
-Al dopar con átomos tipo P, se generan huecos con carga positivas y con tipo N se crean de carga positiva.* 
+Se introducen impurezas o átomos de dopante en cristal semiconductor. Crea huecos de electrones en la estructura del material. 
+Al dopar con átomos tipo P, se generan huecos con carga positiva y con tipo N se crean de carga positiva.* 
 
 **8.    ¿De qué forma permite una unión PN el paso de corriente?** 
 
@@ -68,13 +68,20 @@ c)    En la superficie externa del diodo se producen corrientes de fuga que h
 
 d)    La unión PN nunca permite el paso de corriente. 
 
-En la Unión PN la región espacial alrededor de la unión se crea la zona de agotamiento y se forma un potencial. Y al conectar una fuente de tensión, fuerza el tránsito de elctrones, los cuales tiene superar la unión para pasar de la zona N a la P.
+*En la Unión PN la región espacial alrededor de la unión se crea la zona de agotamiento y se forma un potencial. Y al conectar una fuente de tensión, fuerza el tránsito de electrones, los cuales tiene superar la unión para pasar de la zona N a la P.*
 
 **9.    ¿Cómo se comporta un diodo real en la región de polarización inversa?** 
+
 a)    Ofrece una gran resistencia hasta que se alcanza la tensión de ruptura, momento a partir del cual presenta una resistencia muy pequeña en la denominada zona de avalancha. Cuando la corriente que lo atraviesa alcanza el máximo permitido, se destruye. 
-b)    Apenas deja pasar corriente hasta que la diferencia de potencial entre sus terminales supera la necesaria para que los electrones atraviesen la zona de agotamiento, momento a partir del cual ofrece una resistencia muy pequeña al paso de la corriente. Cuando la corriente que lo atraviesa alcanza el máximo permitido, se destruye. 
+
+b)    Apenas deja pasar corriente hasta que la diferencia de potencial entre sus terminales supera la necesaria para que los electrones atraviesen la zona de agotamiento, momento a partir del cual ofrece una resistencia muy pequeña al paso de la corriente. Cuando la 
+corriente que lo atraviesa alcanza el máximo permitido, se destruye. 
+
 c)    Deja pasar corriente de forma proporcional a la tensión que se aplica entre sus terminales hasta que la corriente supera el máximo que puede soportar, instante en que se destruye. 
+
 d)    Presenta una gran resistencia hasta que se alcanza la tensión de avalancha, momento en que se destruye. 
+
+
 
 **10.    ¿En qué consiste el comportamiento que presenta un transistor bipolar (BJT) en la región de saturación?** 
 a)    Reduce al mínimo la resistencia entre colector y emisor, permitiendo el paso de una cantidad máxima de corriente que deja de ser proporcional a la corriente que entra por su base. 
