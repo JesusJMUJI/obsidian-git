@@ -45,16 +45,30 @@ c)    La energía que necesita absorber un electrón para escapar del átomo 
 
 
 **7.    ¿Mediante qué técnica se consigue contaminar un semiconductor dando lugar a las de nominadas regiones **_«_**P **_»_** y **_«_**N **_»_**?** 
-a)    La técnica se denomina **_«_**dopaje **_»_** y consiste en insertar átomos que en su capa más externa poseen diferente número de electrones que los átomos que forman el cristal semiconductor. 
+
+==a)    La técnica se denomina **_«_**dopaje **_»_** y consiste en insertar átomos que en su capa más externa poseen diferente número de electrones que los átomos que forman el cristal semiconductor.== 
+
 b)    La técnica se denomina **_«_**dopaje **_»_** y consiste en calentar un cristal semiconductor hasta que algunos enlaces se rompan, de forma que ciertos átomos no participan totalmente de la estructura del cristal. 
+
 c)    La técnica se denomina **_«_**extrínseca **_»_** y consiste en eliminar todos los electrones libres del cristal semiconductor. 
+
 d)    La técnica se denomina **_«_**intrínseca **_»_** y consiste en contaminar el semiconductor con una mezcla de átomos con diferentes estructuras electrónicas.
 
+*Explicación:
+Se introducen inpurezas o átomos de dopante en cristal semiconductor. Crea huecos de electrones en la estructura del material. 
+Al dopar con átomos tipo P, se generan huecos con carga positivas y con tipo N se crean de carga positiva.* 
+
 **8.    ¿De qué forma permite una unión PN el paso de corriente?** 
+
 a)    En la región espacial alrededor de la unión PN, la zona de agotamiento supone un obstáculo para el paso de la corriente, pero una vez los electrones disponen del potencial necesario para superarla, la atraviesan perdiendo parte de su potencial. 
-b)    Una vez la región espacial del diodo correspondiente a la zona **_«_**N **_»_** esta llena de electrones, estos atraviesan la zona **_«_**P **_»_**, ganando potencial y dando lugar a la conducción eléctrica. 
+
+==b)    Una vez la región espacial del diodo correspondiente a la zona **_«_**N **_»_** esta llena de electrones, estos atraviesan la zona **_«_**P **_»_**, ganando potencial y dando lugar a la conducción eléctrica.== 
+
 c)    En la superficie externa del diodo se producen corrientes de fuga que hacen que el diodo conduzca. 
+
 d)    La unión PN nunca permite el paso de corriente. 
+
+En la Unión PN la región espacial alrededor de la unión se crea la zona de agotamiento y se forma un potencial. Y al conectar una fuente de tensión, fuerza el tránsito de elctrones, los cuales tiene superar la unión para pasar de la zona N a la P.
 
 **9.    ¿Cómo se comporta un diodo real en la región de polarización inversa?** 
 a)    Ofrece una gran resistencia hasta que se alcanza la tensión de ruptura, momento a partir del cual presenta una resistencia muy pequeña en la denominada zona de avalancha. Cuando la corriente que lo atraviesa alcanza el máximo permitido, se destruye. 
