@@ -72,7 +72,7 @@ d)    La unión PN nunca permite el paso de corriente.
 
 **9.    ¿Cómo se comporta un diodo real en la región de polarización inversa?** 
 
-a)    Ofrece una gran resistencia hasta que se alcanza la tensión de ruptura, momento a partir del cual presenta una resistencia muy pequeña en la denominada zona de avalancha. Cuando la corriente que lo atraviesa alcanza el máximo permitido, se destruye. 
+==a)    Ofrece una gran resistencia hasta que se alcanza la tensión de ruptura, momento a partir del cual presenta una resistencia muy pequeña en la denominada zona de avalancha. Cuando la corriente que lo atraviesa alcanza el máximo permitido, se destruye.== 
 
 b)    Apenas deja pasar corriente hasta que la diferencia de potencial entre sus terminales supera la necesaria para que los electrones atraviesen la zona de agotamiento, momento a partir del cual ofrece una resistencia muy pequeña al paso de la corriente. Cuando la 
 corriente que lo atraviesa alcanza el máximo permitido, se destruye. 
@@ -81,12 +81,14 @@ c)    Deja pasar corriente de forma proporcional a la tensión que se aplica 
 
 d)    Presenta una gran resistencia hasta que se alcanza la tensión de avalancha, momento en que se destruye. 
 
-
-
 **10.    ¿En qué consiste el comportamiento que presenta un transistor bipolar (BJT) en la región de saturación?** 
+
 a)    Reduce al mínimo la resistencia entre colector y emisor, permitiendo el paso de una cantidad máxima de corriente que deja de ser proporcional a la corriente que entra por su base. 
+
 b)    Deja pasar entre su colector y su emisor una cantidad de corriente proporcional (con constante de proporcionalidad denominada beta) a la tensión presente en su base. 
+
 c)    Modifica su resistencia interna de forma que se mantenga constante la proporción (denominada beta del transistor) entre la corriente que entra por su base y la que circula entre colector y emisor. 
+
 d)    Reduce al máximo la resistencia entre colector y emisor, dejando pasar la máxima corriente posible (demonizada beta del transistor) independientemente de la corriente que entre por su base. 
 
 **11.    ¿Qué restricción establece el Teorema de Nyquist respecto de la frecuencia de muestreo de una señal?** 
