@@ -24,16 +24,21 @@ b)    Se conserva el voltaje y se suma la corriente que atraviesa ambas resis
 c)    Se conserva la resistencia y se suma el voltaje. 
 d)    No se conserva ninguna magnitud y se suman tanto la corriente como el voltaje. 
 
-Explicación ChatGPT:
-La corriente eléctrica que fluye en las resistencias es la misma, se conserva la corriente. 
+***Explicación:**
+La corriente eléctrica que fluye en las resistencias es la misma, se conserva la corriente.* 
 
 **5.    Si en un circuito incrementamos el valor de una de las resistencias que lo componen, ¿qué repercusión tiene este cambio sobre los parámetros eléctricos relacionados con la misma?** 
-a)    El voltaje entre sus terminales puede incrementarse o mantenerse constante, nunca disminuir, y la corriente que la atraviesa se reduce. 
+==a)    El voltaje entre sus terminales puede incrementarse o mantenerse constante, nunca disminuir, y la corriente que la atraviesa se reduce.== 
 b)    Tanto el voltaje entre sus terminales como la corriente que la atraviesa se reducen.
 c)    Tanto el voltaje entre sus terminales como la corriente que la atraviesa se incrementan.
 d)    No existe variación en ningún parámetro eléctrico relacionado con la resistencia modificada. 
 
-**6.    ¿En lo concerniente al comportamiento eléctrico de la materia, que es el GAP?** a)    El salto de energía existente entre la banda de valencia y la banda de conducción de un átomo. 
+***Explicación:**
+Al aumentar la resistencia, la corriente se reduce debido a la ley de Ohm (V=I·R -> I=V/R).
+Si se mantiene constante la corriente, el voltaje de las resistencias se incrementan al haber mayor caída de voltaje.* 
+
+**6.  ¿En lo concerniente al comportamiento eléctrico de la materia, que es el GAP?** 
+a)    El salto de energía existente entre la banda de valencia y la banda de conducción de un átomo. 
 b)    La distancia existente entre la banda de valencia y la banda de conducción de un átomo. 
 c)    La energía que necesita absorber un electrón para escapar del átomo en el que se encuentra. 
 d)    La región que separa cada átomo de sus vecinos y que los electrones deben atravesar para ir de un átomo a otro. 
