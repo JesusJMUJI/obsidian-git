@@ -1,5 +1,7 @@
 ----
 
+Prueba de ver cómo funciona gitbook
+
 Xphyira was born into a small kobold clan deep within the mountains, his black scales with red accents marking him as different from the other members of his tribe. Despite his parents' attempts to keep him hidden away, Xphyira was a curious and adventurous kobold who often snuck out to explore the caverns.
 
 One day, he stumbled upon a mysterious weapon that appeared to be a shortsword, but could manifest a psychic blade made of pure energy. As he honed his skills with the weapon, he discovered that he could project the energy from his own mind, creating a secondary blade that he could wield in his off-hand. The psionic blades glowed a deep red color, which was attributed to the demonic influence.
