@@ -8,7 +8,7 @@ Ecuación de la recta: ``y = mx + b``
 
 $$m=\frac{\Delta y}{\Delta x}=\frac{y_1 - y_0}{x_1 - x_0}$$
 
-Pero la formula final es:
+Pero la fórmula final es:
 $$y_{i+1} = y_{i + m}$$
 
 ----
@@ -19,7 +19,8 @@ ejercicio 2 --> Pi = (20,10) - Pf = (30,18)
 |     |     |       |
 
 
-Ejercicio 4 - -> Pi = (-1, -6) - Pf = (2,1) 
+Ejercicio 4:
+--> Pi = (-1, -6) - Pf = (2,1) 
 --> Pi = (2,4) - Pf = (-1,-3)
 
 
