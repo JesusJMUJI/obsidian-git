@@ -38,7 +38,7 @@ Al aumentar la resistencia, la corriente se reduce debido a la ley de Ohm (V=I·
 Si se mantiene constante la corriente, el voltaje de las resistencias se incrementan al haber mayor caída de voltaje.* 
 
 **6.  ¿En lo concerniente al comportamiento eléctrico de la materia, que es el GAP?** 
-a)    El salto de energía existente entre la banda de valencia y la banda de conducción de un átomo. 
+==a)    El salto de energía existente entre la banda de valencia y la banda de conducción de un átomo.== 
 b)    La distancia existente entre la banda de valencia y la banda de conducción de un átomo. 
 c)    La energía que necesita absorber un electrón para escapar del átomo en el que se encuentra. 
 d)    La región que separa cada átomo de sus vecinos y que los electrones deben atravesar para ir de un átomo a otro. 
