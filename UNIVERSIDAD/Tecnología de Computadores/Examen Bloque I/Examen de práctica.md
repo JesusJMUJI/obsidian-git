@@ -1,16 +1,16 @@
 [[TECO INDICE]] #teco #examen_bloque_I 
 
 **1.    ¿Qué propiedad de un átomo determina el elemento de que se trata?** 
-==a)    Su número atómico (Z), es decir el número de protones de su núcleo.== 
-b)    Su número atómico (Z), es decir, el número de neutrones de su núcleo.
-c)    Su masa atómica. 
-d)    El número de electrones de la capa más externa de su corteza. 
+	==a)    Su número atómico (Z), es decir el número de protones de su núcleo.== 
+	b)    Su número atómico (Z), es decir, el número de neutrones de su núcleo.
+	c)    Su masa atómica. 
+	d)    El número de electrones de la capa más externa de su corteza. 
 
 **2.    ¿Qué magnitud eléctrica equivale a la distancia entre la superficie del líquido y el punto por el que emerge en el símil hidráulico y en que unidades se mide?** 
-==a)    El voltaje y se mide en Voltios (V).== 
-b)    La resistencia eléctrica y se mide en Ohmios (Ohm)
-c)    La carga eléctrica y se mide en Coulombs (C). 
-d)    La corriente eléctrica y se mide en Amperios (A). 
+	==a)    El voltaje y se mide en Voltios (V).== 
+	b)    La resistencia eléctrica y se mide en Ohmios (Ohm)
+	c)    La carga eléctrica y se mide en Coulombs (C). 
+	d)    La corriente eléctrica y se mide en Amperios (A). 
 
 **3.    Para medir el voltaje existente entre los terminales de una resistencia que forma parte de un circuito eléctrico, ¿qué instrumento debemos emplear y como debemos conectarlo?** 
 a) Un voltímetro, aplicando simplemente los terminales de este en los extremos de la resistencia. 
