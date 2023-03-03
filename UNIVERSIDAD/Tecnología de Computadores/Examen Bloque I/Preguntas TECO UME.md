@@ -1,6 +1,6 @@
 # Tecnología de Computadores
 
-# SEGUNDO SEMTRE DE 2023
+# SEGUNDO SEMESTRE DE 2023
 
 ## Bloque 1 : Preguntas y respuestas de test
 
@@ -19,7 +19,7 @@ conectarlo?
 	
 ● Si conectamos una resistencia a continuación de otra de diferente valor, formando
 la asociación denominada “conexión en serie”, ¿qué magnitud del circuito se
-conserva (su valor es idéntico para ambas resistencias) y cual se suma (posee
+conserva (su valor es idéntico para ambas resistencias) y cuál se suma (posee
 valores diferentes para cada resistencia) en el nuevo circuito?
 	○ Se conserva la corriente que atraviesa ambas resistencias y se suma el
 	voltaje.
@@ -29,7 +29,7 @@ componen, ¿qué repercusión tiene este cambio sobre los parámetros eléctrico
 relacionados con la misma?
 	○ El voltaje entre sus terminales puede incrementarse o mantenerse
 	constante, nunca disminuir, y la corriente que la atraviesa se reduce.
-
+	
 ● ¿Qué propiedad presentan los niveles energéticos de los átomos de los
 semiconductores que hace que se comporten de forma especial frente al fenómeno
 de la conducción eléctrica?
@@ -66,8 +66,7 @@ región de saturación?
 muestreo de una señal?
 	○ La frecuencia de muestreo debe ser al menos el doble de la máxima
 	frecuencia presente en la señal.
-
-
+	
 ● ¿Qué consecuencia tiene el proceso de conversión analógico/digital el hecho de que
 las magnitudes físicas que se someten a conversión sean continuas y el valor
 arrojado por la cuantificación sea discreto? ¿Cómo puede evitarse?
@@ -130,7 +129,7 @@ luz? ¿Por qué los hay de diferentes colores?
 	
 ● ¿Qué propiedad del átomo determina el elemento del que se trata?
 	○ su número atómico (Z), el número de protones en su núcleo.
-
+	
 ● Para medir la corriente que atraviesa una resistencia que forma parte de un circuito
 eléctrico, ¿qué instrumento debemos emplear y cómo debemos conectarlo?
 	○ Un amperímetro, interrumpiendo el circuito e insertándolo de forma que la
@@ -188,7 +187,7 @@ región de conducción?
 eléctricas de un circuito y en qué consiste?
 	○ Ley de Ohm. La tensión es directamente proporcional a la intensidad y a la
 	resistencia.
-
+	
 ● ¿Qué magnitudes eléctricas se consideran equivalentes entre sí al emplear el símil
 hidráulico para explicar la electricidad?
 	○ Presión con tensión, calibre de la tubería con la resistencia y flujo con la
