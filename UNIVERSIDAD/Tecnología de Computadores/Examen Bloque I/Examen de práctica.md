@@ -87,14 +87,19 @@ a)    Reduce al mínimo la resistencia entre colector y emisor, permitiendo e
 
 b)    Deja pasar entre su colector y su emisor una cantidad de corriente proporcional (con constante de proporcionalidad denominada beta) a la tensión presente en su base. 
 
-c)    Modifica su resistencia interna de forma que se mantenga constante la proporción (denominada beta del transistor) entre la corriente que entra por su base y la que circula entre colector y emisor. 
+==c)    Modifica su resistencia interna de forma que se mantenga constante la proporción (denominada beta del transistor) entre la corriente que entra por su base y la que circula entre colector y emisor.== 
 
 d)    Reduce al máximo la resistencia entre colector y emisor, dejando pasar la máxima corriente posible (demonizada beta del transistor) independientemente de la corriente que entre por su base. 
 
 **11.    ¿Qué restricción establece el Teorema de Nyquist respecto de la frecuencia de muestreo de una señal?** 
+
 a)    La frecuencia de muestreo debe ser al menos el doble de la máxima frecuencia presente en la señal. 
+
 b)    La frecuencia de muestreo debe ser mayor que la máxima frecuencia presente en la señal. 
-c)    La frecuencia de muestreo debe ser como máximo la mitad de la máxima frecuencia presente en la señal. 
+
+c)    La frecuencia de muestreo debe ser como máximo la mitad de la máxima frecuencia presente en la
+señal. 
+
 d)    La frecuencia de muestreo debe ser menor que la máxima frecuencia presente en la señal. 
 
 **12.    ¿Qué consecuencia tiene en el proceso de conversión analógico/digital el hecho de que las magnitudes físicas que se someten a conversión sean continuas y el valor arrojado por la cuantificación sea discreto? ¿Cómo puede evitarse?** 
