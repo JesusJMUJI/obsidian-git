@@ -71,7 +71,7 @@ muestreo de una señal?
 las magnitudes físicas que se someten a conversión sean continuas y el valor
 arrojado por la cuantificación sea discreto? ¿Cómo puede evitarse?
 	○ La consecuencia es la pérdida de información. Es inevitable.
-
+	
 ● ¿Cuál es la principal ventaja de un conversor digital/analógico PWM?
 	○ Su falta de implementación.
 	
@@ -84,7 +84,7 @@ para la conversión la técnica del ensayo y error?
 precisa de 2^n comparadores?
 	○ porque genera todos los valores analógicos posibles en paralelo y los
 	compara simultáneamente con el valor desconocido.
-
+	
 ● ¿Mediante qué proceso puede un electrón de la banda de valencia de un
 semiconductor promocionar a la banda de conducción?
 	○ Recibiendo de un fotón la cantidad de energía igual o superior necesaria
