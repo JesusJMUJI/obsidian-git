@@ -73,7 +73,7 @@ arrojado por la cuantificación sea discreto? ¿Cómo puede evitarse?
 	○ La consecuencia es la pérdida de información. Es inevitable.
 	
 ● ¿Cuál es la principal ventaja de un conversor digital/analógico PWM?
-	○ Su falta de implementación.
+	○ Su falta de implementación / Su facilidad de implementación.
 	
 ● ¿Qué consecuencia tiene el hecho de que todo conversor analógico/digital emplee
 para la conversión la técnica del ensayo y error?
@@ -82,7 +82,7 @@ para la conversión la técnica del ensayo y error?
 	
 ● ¿Por qué un conversor analógico/digital de lazo abierto con una resolución de n bits
 precisa de 2^n comparadores?
-	○ porque genera todos los valores analógicos posibles en paralelo y los
+	○ Porque genera todos los valores analógicos posibles en paralelo y los
 	compara simultáneamente con el valor desconocido.
 	
 ● ¿Mediante qué proceso puede un electrón de la banda de valencia de un
@@ -211,7 +211,7 @@ eléctrica?
 	empiece a conducir de forma apreciable.
 	
 ● ¿Cuáles son las regiones de trabajo del transistor?
-	○ Corte, conducción y stauración.
+	○ Corte, conducción y saturación.
 	
 ● ¿Qué es la beta de un transistor?
 	○ La proporción entre corriente de colector y corriente de base en la región de
@@ -317,5 +317,37 @@ momento, para conseguir la absorción o emisión es necesaria la intervención d
 ● La luz es un fenómeno físico que se manifiesta como...
 	○ Partículas o como ondas, dependiendo de las circunstancias en que se ve
 	involucrada.
+	
+● ¿Qué magnitud eléctrica equivale a la distancia entre la superficie del líquido y el
+punto por el que emerge en el símil hidráulico y en qué unidades se mide?
+	○ El voltaje y se mide en voltios (V).
+	
+● ¿En lo que concierne al comportamiento eléctrico de la materia, qué es el GAP?
+	○ El salto de energía existente entre la banda de valencia y la banda de conducción de un átomo.
+	
+● ¿De qué forma permite una unión PN el paso de la corriente?
+	○ En la región espacial alrededor de la unión PN, la zona de agotamiento supone un obstáculo para el paso de la corriente, pero una vez los electrones disponen del potencial necesario para superarla, la atraviesan perdiendo parte de su potencial.
+	
+● ¿En qué consiste el comportamiento que presenta un transistor bipolar (BJT) en la
+región de saturación?
+	○ Reduce al mínimo la resistencia entre colector y emisor, permitiendo el paso de una cantidad máxima de corriente que deja de ser proporcional a la corriente que entra por su base.
+	
+● ¿Qué le ocurre a un electrón de la banda de valencia de un semiconductor que
+recibe varios fotones de energía inferior a la que lo separa de la banda de
+conducción?
+	○ Que pierde la energía recibida de cada uno de ellos y permanece en la banda de valencia.
+	
+● ¿En qué consiste la transición BP directa? 
+	○ En una transición entre la banda de valencia y la de conducción en la que el electrón que la protagoniza solamente sufre un cambio en su energía.
+	
+● ¿En qué consiste el fenómeno de la termoluminiscencia?
+	○ En la emisión de fotones proporcional a su temperatura que ocurre en todos los objetos.
+	
+● ¿Qué magnitud representa el número de cargas eléctricas (electrones) que pasan
+por un punto de un circuito por unidad de tiempo y en qué unidades se mide?
+	○ La corriente eléctrica y se mide en amperios (A).
+	
+● En un conversor A/D, ¿qué se conoce como resolución?
+	○ El número de bits del valor numérico entregado por el conversor.
 
 
