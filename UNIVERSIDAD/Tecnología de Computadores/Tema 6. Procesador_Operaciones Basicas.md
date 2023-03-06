@@ -66,5 +66,14 @@ Sirven para acondicionar datos y realizar divisiones y multiplicaciones por *pot
 * Que el compilador ha asignado la variable h al registro r2 
 * Que la dirección de comienzo del vector A está almacenada en el registro r3
 
-Sol: ``ldr r0, [r3, #32]  @ r0 <- A[8]``
+Sol: 
+``ldr r0, [r3, #32]  @ r0 <- A[8]``
+``add r0, r2, r0 @ r0 <- h + A[8]
+``str r0, [r3,#48] @ A[12] <- h + A[8]
 
+
+### Transferencia de bytes y *half-words*
+
+Instrucciones: ldrh | strh | ldrb | strb 
+
+**ldrh**: carga de media palabra
