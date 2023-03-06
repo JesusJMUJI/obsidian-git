@@ -44,17 +44,20 @@ Sirven para acondicionar datos y realizar divisiones y multiplicaciones por *pot
 
 #### Desplazamientos
 
-* Izquierda:
+* **Izquierda:**
 	* ``lsl r0,r0, #3  @ r0 <- r0 << 3``
 * Equivale a multiplicar por 2<sup>n</sup>
 
-* Derecha
+* **Derecha**
 	* ``lsr r0, r0,#4  @ r0 <- r0 >> 4``
 * Equivale a dividir por 2<sup>N</sup>
 
-* Aritmético a la Derecha
+* **Aritmético a la Derecha**
 	* ``asr r0,r0, #5  @ r0 <- r0 >> 5
 * Equivale a dividir 2<sup>N</sup>
 * Conserva el signo al replicar el bit de mayor peso del argumento
 
 ### Directo a registro
+
+![[Registro.png]]
+
