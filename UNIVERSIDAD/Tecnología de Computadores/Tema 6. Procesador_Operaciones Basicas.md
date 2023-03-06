@@ -77,3 +77,9 @@ Sol:
 Instrucciones: ldrh | strh | ldrb | strb 
 
 **ldrh**: carga de media palabra
+
+
+# Resumen
+
+![[resumen armthumb.png]]
+
