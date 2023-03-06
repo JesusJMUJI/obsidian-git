@@ -52,3 +52,9 @@ Sirven para acondicionar datos y realizar divisiones y multiplicaciones por *pot
 	* ``lsr r0, r0,#4  @ r0 <- r0 >> 4``
 * Equivale a dividir por 2<sup>N</sup>
 
+* Aritmético a la Derecha
+	* ``asr r0,r0, #5  @ r0 <- r0 >> 5
+* Equivale a dividir 2<sup>N</sup>
+* Conserva el signo al replicar el bit de mayor peso del argumento
+
+### Directo a registro
