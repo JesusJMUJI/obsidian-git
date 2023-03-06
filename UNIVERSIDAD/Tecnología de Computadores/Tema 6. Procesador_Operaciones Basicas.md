@@ -61,3 +61,10 @@ Sirven para acondicionar datos y realizar divisiones y multiplicaciones por *pot
 
 ![[Registro.png]]
 
+## Acceso a memoria
+**Ejercicio: Dada la sentencia A[12] = h + A[8] obtener el código ensamblador equivalente sabiendo:**
+* Que el compilador ha asignado la variable h al registro r2 
+* Que la dirección de comienzo del vector A está almacenada en el registro r3
+
+Sol: ``ldr r0, [r3, #32]  @ r0 <- A[8]``
+
