@@ -32,3 +32,8 @@ add r7, r5, r6 @ f <- (g+h) - (i+k)
 
 ### Operaciones lógicas y desplazamiento
 
+Sirven para acondicionar datos y realizar divisiones y multiplicaciones por *potencias de 2*.
+
+* Operación lógica AND (Y):
+	* ``and r0, r3  @ r0 <- r0 AND r3``
+* Como máscara, pone a '0' los bits del registro que valen '0' en la máscara y deja como están los que valen '1' en la máscara.
