@@ -37,3 +37,14 @@ Sirven para acondicionar datos y realizar divisiones y multiplicaciones por *pot
 * Operación lógica AND (Y):
 	* ``and r0, r3  @ r0 <- r0 AND r3``
 * Como máscara, pone a '0' los bits del registro que valen '0' en la máscara y deja como están los que valen '1' en la máscara.
+
+* Operación lógica OR (O):
+	* ``orr r0, r3  @ r0 <- r0 OR r3``
+* Como máscara, pone a '0' los bits del registro que valen '0' en la máscara y deja como están los que valen '1' en la máscara.
+
+#### Desplazamientos
+
+* Izquierda:
+	* ``lsl r0,r0, #3  @ r0 <- r0 << 3``
+* Equivale a multiplicar por 2<sup>n</sup>
+
