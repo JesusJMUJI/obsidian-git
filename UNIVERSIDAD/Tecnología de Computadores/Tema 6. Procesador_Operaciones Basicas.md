@@ -1,4 +1,4 @@
-#### Operaciones elementales
+### Operaciones elementales
 
 Indicar suma:
 ```
@@ -47,4 +47,8 @@ Sirven para acondicionar datos y realizar divisiones y multiplicaciones por *pot
 * Izquierda:
 	* ``lsl r0,r0, #3  @ r0 <- r0 << 3``
 * Equivale a multiplicar por 2<sup>n</sup>
+
+* Derecha
+	* ``lsr r0, r0,#4  @ r0 <- r0 >> 4``
+* Equivale a dividir por 2<sup>N</sup>
 
