@@ -1,1 +1,9 @@
-{}
+{
+	"nodes":[
+		{"type":"text","text":"Test","id":"7e1a9f0a4f8bdd58","x":-385,"y":-360,"width":250,"height":60},
+		{"id":"89a65ec6312a0784","x":-385,"y":-140,"width":250,"height":493,"type":"text","text":"## Arroz con seitan básico pero con arroz con un puntico. \n\nCocción:\n- Seitan que se quede tostado pero jugoso \n- Primero, el arroz al micro hasta que se quede descongelado sin hacerlo. \n- Cuando el seitaj este hecho, echar el arroz \n- luego especias:\n- Pimenton Dulce \n- Iberico \n- Ajo granulado\n"}
+	],
+	"edges":[
+		{"id":"390c492055ac5f2d","fromNode":"89a65ec6312a0784","fromSide":"top","toNode":"7e1a9f0a4f8bdd58","toSide":"bottom"}
+	]
+}
