@@ -88,3 +88,6 @@ yinc = -1
 
 ## Algoritmo de Bresenham
 
+``d1 - d2 = m(Xk + 1) + b - yk -yk -1 + m(Xk + 1) + b
+``d2 = (Yk + 1 -y) = yk + 1[m(yk + 1) + b] = yk + 1 --> -m(Xk + 1) - b
+``d1 = y - yk = m(yk + 1) + b - yk = mxK + m + b - yk = m(xk + 1) + b - yk
