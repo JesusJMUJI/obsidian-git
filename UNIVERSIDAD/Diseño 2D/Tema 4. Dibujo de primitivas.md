@@ -86,3 +86,5 @@ yinc = -1
 | 6   |       |     |
 | 7   |       ||
 
+## Algoritmo de Bresenham
+
