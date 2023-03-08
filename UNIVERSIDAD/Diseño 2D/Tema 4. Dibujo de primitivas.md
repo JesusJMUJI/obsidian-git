@@ -88,6 +88,15 @@ yinc = -1
 
 ## Algoritmo de Bresenham
 
-``d1 - d2 = m(Xk + 1) + b - yk -yk -1 + m(Xk + 1) + b
-``d2 = (Yk + 1 -y) = yk + 1[m(yk + 1) + b] = yk + 1 --> -m(Xk + 1) - b
-``d1 = y - yk = m(yk + 1) + b - yk = mxK + m + b - yk = m(xk + 1) + b - yk
+``d1 - d2 = m(Xk + 1) + b - yk -yk -1 + m(Xk + 1) + b``
+``d2 = (Yk + 1 -y) = yk + 1[m(yk + 1) + b] = yk + 1 --> -m(Xk + 1) - b``
+``d1 = y - yk = m(yk + 1) + b - yk = mxK + m + b - yk = m(xk + 1) + b - yk``
+
+### Ej1.
+
+$$(20, 10) - (30,18)$$
+$$\frac{\Delta y}{\Delta x} = \frac{8}{10} = 0,8$$
+$$ A =2\Delta x = -4$$
+$$ B =2\Delta y-2 \Delta x = -4$$
+$$ P_o =2\Delta y-\Delta x = 6$$
+
