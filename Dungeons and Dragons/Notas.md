@@ -22,4 +22,7 @@ Convo entre Atsuio y Kon
 * Combate mañana. Duelo entre Medioth y Blar (Gremio Gigantes) 
 * Evira: Informante con dinero, taberna?
 	* 
-* 
+
+Nota del tabernero:
+	"En el lugar donde nace el sol, entre el fuego y el mar, allí encontrarás al hombre que buscas, en un lugar donde el tiempo no tiene edad."
+
