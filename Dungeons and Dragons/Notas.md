@@ -16,4 +16,9 @@ Abatida -> Dia de descanso 1o
 ## Acto II
 ----
 
-Objetivo: ???
+Objetivo: Buscamos la ubicacion de los contenedores de las memorias
+
+Convo entre Atsuio y Kon
+* Combate mañana. Duelo entre Medioth y Blar (Gremio Gigantes) 
+* Evira: Informante con dinero, taberna?
+* 
