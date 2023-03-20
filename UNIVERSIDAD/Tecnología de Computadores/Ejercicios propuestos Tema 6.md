@@ -25,8 +25,20 @@ r3   0--------01    operacion logica
 
 Ejercicio 4.
 ```
-		.data
-vector  .byte    2,3,4,5
+		    .data
+vector1:    .byte   2,3,4,5
+vector2:    .space  16
+            .text
+            ldr     r0,=vector1
+            ldrb    r1,[r0]
+            ldr     r2,=vector2
+            str     r1,[r2]
+            
+            ldrb    r1,[r0,#1]
+            str     r1,[r2,#4]
+            
+            ldrb    r1,[r0,#2]
+            str     r1,[r2,#8]
 
 
 ```
