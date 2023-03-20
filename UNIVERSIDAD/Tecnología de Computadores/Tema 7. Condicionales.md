@@ -11,9 +11,11 @@ else
 ```
 
 ```
-.text
-	r0,r1,r2 ya tienen values
-x -> r0
-y -> r1
-z -> r2
+		.text
+			r0,r1,r2 ya tienen values
+		cmp r0,r1
+		bne else
+		add r2,r0,r1
+else:   add r2, r0,#5
+
 ```
