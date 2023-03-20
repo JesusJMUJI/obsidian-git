@@ -23,4 +23,10 @@ r3   0--------01    operacion logica
 
 ```
 
-Ejercicio 5.
+Ejercicio 4.
+```
+		.data
+vector  .byte    2,3,4,5
+
+
+```
