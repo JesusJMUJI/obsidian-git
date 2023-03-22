@@ -128,3 +128,10 @@ $$\frac{\Delta y}{\Delta x} = \frac{7}{3}> 0y>1$$
 | 4   |  -5   |  (1,1)       |
 |  5   |     |         |
 
+----
+### Función Bresenham
+$$1) \; y_i - mx_i + b \rightarrow y_0 = mx_0 + b \rightarrow b = y_0 -(\frac{\Delta y}{\Delta x}X_0)$$
+$$2) \; P_i = 2\Delta_i X_i - 2\Delta y_i + 2\Delta y + 2\Delta xb - \Delta x$$
+$$P_0 = 2\Delta y x_0 - 2\Delta xy_0 + 2\Delta y + 2\Delta xb - \Delta x$$
+$$P_0 = 2\Delta yx_0 - 2\Delta xy_0 + 2\Delta x [y_0 - \frac{\Delta y}{\Delta x}]-\Delta x$$
+$$P_0 = 2\Delta y -\Delta x$$
