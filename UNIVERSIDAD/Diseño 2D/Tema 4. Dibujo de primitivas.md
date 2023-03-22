@@ -157,7 +157,9 @@ $$2\Delta y [(x_k + 1) - X_k] + 2\Delta x [(y_k + 1) -y_k]$$
 | 5   | P5 = 8  | (6,8)  |                                                        |
 | 6   | P6 =  5 | (7,7)  |                                                        |
 
-3. Calcular con el algoritmo del punto medio, las posiciones de los pixeles que dibujan el círculo definido por: a) centro en (25,15) y radio 5 b) centro en (-15,24) y radio 7
+3. Calcular con el algoritmo del punto medio, las posiciones de los pixeles que dibujan el círculo definido por: 
+	a) centro en (25,15) y radio 5 
+	
 
 | k   | Pk  | (x,y) | Pk + 1                    |
 | --- | --- | ----- | ------------------------- |
@@ -167,3 +169,8 @@ $$2\Delta y [(x_k + 1) - X_k] + 2\Delta x [(y_k + 1) -y_k]$$
 | 3   | 7   | (4,3) | $$P_4 = $$                |
 |     |     |       |                           |
 
+	b) centro en (-15,24) y radio 7
+
+| k   | Pk  | (x,y) | Pk+ 1 |
+| --- | --- | ----- | ----- |
+|     |     |       |       |
