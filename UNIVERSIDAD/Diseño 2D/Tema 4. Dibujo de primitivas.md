@@ -138,3 +138,20 @@ $$P_0 = 2\Delta y -\Delta x$$
 $$P_k + 1 = 2\Delta y (X_k + 1) + 2\Delta x (y_K + 1) + C$$
 $$P_k = 2\Delta y X_k + 2\Delta xy_k + C$$
 $$2\Delta y [(x_k + 1) - X_k] + 2\Delta x [(y_k + 1) -y_k]$$
+
+
+## Ejercicios Algoritmos dibujado de circunferencias
+----
+1. Utilizar el algoritmo de Bresenham para determinar los píxeles que deben iluminarse para dibujar la circunferencia con radio=10 y centrada en (0,0)
+| R= 10 | pintas (0,10 |
+| ----- | ------------ | 
+| entro(0,0)      |  $$P_0 = I - R = -9$$            |     |
+
+| K   | Pk      | (x,y   | Pk + 1\                                                |
+| --- | ------- | ------ | ------------------------------------------------------ |
+| 0   | P0 = -9 | (1,10) | P1 = Pk + 2yk + 3 = -9 + 2 * 0 + 3 = 6                 |
+| 1   | P1 = 6  | (2,10) | P2 = -6 + 2 * 1 + 3 = 1                                |
+| 2   | P2 = -1 | (3,10) | P3 = -1 + 2 * 2 + 3= 6                                 |
+| 3   | P3 = 6  | (4,9)  | $$P_4 = P-3 + 2X_3 - 2y_3 + 5 = 6+2 * 3-2*10 +5 = -3$$
+| 4    | P4 = -3        | ()       |                                                        |
+
