@@ -18,7 +18,9 @@ Abatida -> Dia de descanso 1o
 
 *Objetivo: Buscamos la ubicacion de los contenedores de las memorias*
 
-Convo entre Atsuio y Kon
+## Notas si canonicas (oidas por pj.)
+
+Convo entre Atsuio y Kon (narrada por telepatía)
 * Combate mañana. Duelo entre Medioth y Blar (Gremio Gigantes) 
 * Evira: Informante con dinero, taberna?
 	* 
@@ -27,6 +29,10 @@ Nota del tabernero:
 	"En el lugar donde nace el sol, entre el fuego y el mar, allí encontrarás al hombre que buscas, en un lugar donde el tiempo no tiene edad."
 	----
 	Quizás esté en un lugar entre el ocaso y la torre del reloj, es decir la cara oeste de la torre. 
+
+
+
+###### Notas no canónicas (no oidas por mi pj.)
 
 Libro de los goblins:
 * El libro habla Leviatán
@@ -41,4 +47,3 @@ Convo Atsui y la tiefling
 * Las uñas de la tiefling son interesantes. Son doradas y cambian de color. 
 
 * TRES HERREROS, Latar? 
-* 
