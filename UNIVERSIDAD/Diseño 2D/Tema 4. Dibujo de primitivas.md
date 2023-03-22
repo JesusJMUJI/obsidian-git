@@ -135,3 +135,6 @@ $$2) \; P_i = 2\Delta_i X_i - 2\Delta y_i + 2\Delta y + 2\Delta xb - \Delta x$$
 $$P_0 = 2\Delta y x_0 - 2\Delta xy_0 + 2\Delta y + 2\Delta xb - \Delta x$$
 $$P_0 = 2\Delta yx_0 - 2\Delta xy_0 + 2\Delta x [y_0 - \frac{\Delta y}{\Delta x}]-\Delta x$$
 $$P_0 = 2\Delta y -\Delta x$$
+$$P_k + 1 = 2\Delta y (X_k + 1) + 2\Delta x (y_K + 1) + C$$
+$$P_k = 2\Delta y X_k + 2\Delta xy_k + C$$
+$$2\Delta y [(x_k + 1) - X_k] + 2\Delta x [(y_k + 1) -y_k]$$
