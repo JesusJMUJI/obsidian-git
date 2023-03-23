@@ -37,7 +37,8 @@ Por la mañana / ¿YA TE VERE?
 	Señala una cosa concreta:
 		Persona: hUMANO, gordo, rubio
 
-###### Penuria (descando)
+###### Penuria (descanso)
+-----
 Sueño durante el primer dia en kerman
 	Voz: la competicion ha comenzado, reunir con compañeros
 
@@ -47,6 +48,9 @@ Convo con Evira
 	* No ir por el dia, medianoche, solo atarceder. 
 	* Dos días de plazo 
 	* Devian 
+
+* *Hemos ayudado a un hipogrifo*
+
 
 
 
