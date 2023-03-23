@@ -37,6 +37,9 @@ Por la mañana / ¿YA TE VERE?
 	Señala una cosa concreta:
 		Persona: hUMANO, gordo, rubio
 
+Sueño durante el primer dia en kerman
+	Voz: la competicion ha comenzado, reunir con compañeros
+
 ###### Notas no canónicas (no oidas por mi pj.)
 
 Libro de los goblins:
