@@ -52,7 +52,9 @@ Convo con Evira
 * *Hemos ayudado a un hipogrifo*
 
 
+*OSTIA HA APARECIDO UNA ELADRIN Y NO HE MORIDO XDDDD*
 
+*He manifestado una daga psionica antes de dejar la campaña (iba a tirar la cuchilla al ladi)*
 
 ### Notas no canónicas (no oidas por mi pj.)
 
