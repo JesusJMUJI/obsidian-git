@@ -43,7 +43,9 @@ Sueño durante el primer dia en kerman
 
 Convo con Evira
 * Evira: la cotilllade Kerman
-*  
+	*  A pies del arbol, un templo hippie. Casi siempre esta y no haym ucha seguridad. 
+	* No ir por el dia, medianoche, solo atarceder. 
+	* 
 
 
 
