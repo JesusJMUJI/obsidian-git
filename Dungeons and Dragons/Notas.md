@@ -20,6 +20,8 @@ Abatida -> Dia de descanso 1o
 
 ## Notas si canonicas (oidas por pj.)
 
+Es Abatida (día, mes desconocido. 
+
 Convo entre Atsuio y Kon (narrada por telepatía)
 * Combate mañana. Duelo entre Medioth y Blar (Gremio Gigantes) 
 * Evira: Informante con dinero, taberna?
