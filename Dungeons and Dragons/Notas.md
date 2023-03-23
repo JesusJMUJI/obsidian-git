@@ -32,7 +32,8 @@ Nota del tabernero:
 	----
 	Quizás esté en un lugar entre el ocaso y la torre del reloj, es decir la cara oeste de la torre. 
 
-
+Señala una cosa concreta:
+	Persona: hUMANO, gordo, rubio
 
 ###### Notas no canónicas (no oidas por mi pj.)
 
