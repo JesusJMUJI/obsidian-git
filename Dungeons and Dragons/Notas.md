@@ -20,8 +20,8 @@ Abatida -> Dia de descanso 1o
 
 ## Notas si canonicas (oidas por pj.)
 
-Es Abatida (día, mes desconocido. 
 
+###### Es Abatida (día, mes desconocido. 
 Convo entre Atsuio y Kon (narrada por telepatía)
 * Combate mañana. Duelo entre Medioth y Blar (Gremio Gigantes) 
 * Evira: Informante con dinero, taberna?
@@ -37,10 +37,15 @@ Por la mañana / ¿YA TE VERE?
 	Señala una cosa concreta:
 		Persona: hUMANO, gordo, rubio
 
+###### Penuria (descando)
 Sueño durante el primer dia en kerman
 	Voz: la competicion ha comenzado, reunir con compañeros
 
-###### Notas no canónicas (no oidas por mi pj.)
+
+
+
+
+### Notas no canónicas (no oidas por mi pj.)
 
 Libro de los goblins:
 * El libro habla Leviatán
