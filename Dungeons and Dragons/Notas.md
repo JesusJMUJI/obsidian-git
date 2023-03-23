@@ -28,12 +28,14 @@ Convo entre Atsuio y Kon (narrada por telepatía)
 	* 
 
 Nota del tabernero:
-	"En el lugar donde nace el sol, entre el fuego y el mar, allí encontrarás al hombre que buscas, en un lugar donde el tiempo no tiene edad."
+	"En el lugar donde nace el sol, entre el fuego y el mar, allí encontrarás al hombre (mujer) que buscas, en un lugar donde el tiempo no tiene edad."
 	----
 	Quizás esté en un lugar entre el ocaso y la torre del reloj, es decir la cara oeste de la torre. 
 
-Señala una cosa concreta:
-	Persona: hUMANO, gordo, rubio
+Conversacion con barman de la plaza de la torre del reloj
+Por la mañana / ¿YA TE VERE?
+	Señala una cosa concreta:
+		Persona: hUMANO, gordo, rubio
 
 ###### Notas no canónicas (no oidas por mi pj.)
 
