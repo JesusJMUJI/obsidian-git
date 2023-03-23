@@ -41,7 +41,7 @@ Por la mañana / ¿YA TE VERE?
 Sueño durante el primer dia en kerman
 	Voz: la competicion ha comenzado, reunir con compañeros
 
-
+* 
 
 
 
