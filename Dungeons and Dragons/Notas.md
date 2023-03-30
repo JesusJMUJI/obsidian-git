@@ -75,6 +75,8 @@ Convo con Devian:
 * Posee dos extractos
 * Ha luchado con lieviatán
 * *Enciclopedia*
+* Aceptará su muerte
+* No puede morir en su pueblo
 * 
 
 
