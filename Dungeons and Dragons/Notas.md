@@ -63,7 +63,11 @@ Convo con men random con ojos amarillos
 * Devian se encuentra en el templo
 * Talar el arbol, perderían todo. ES como una idea.
 * Aasimar desciendes de las deidades. 
-* 
+* Davían:
+	* Prepotente
+	* Viejo
+	* Tiene mucahas historias
+	* 
 
 
 
