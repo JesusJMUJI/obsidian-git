@@ -82,9 +82,29 @@ Intento de asesinato:
 * Xphyira ha fallado
 * Blorb ha calmado la situacion
 * **LA DAGA DE LATTAR LA TIENE ANASU**
-* 
 
 
+----
+EL ASESNATIO DE DAVIAN
+
+Entramos en biblioteca de donde se encontraba de DAvian, con el pretexto de que Blurb entró y Anasu intentó quoitarlo de encima. 
+Con la comoción, Xphyira se ocultó debajo de la mesa intentando recabar información. 
+
+Consguisió alguna y Blorb hizo que tanto Devian como Anasu saliesen de la biblioteca, y fuesen a beber de la savia del árbol sagrado. 
+Blorb uso su simbiente para beber, no ocurrió nada. 
+
+Anasu fue a por los libros de los demás y en el momento en el que salió de la biblioteca, Xphyira se coló debajo de la mesa. 
+
+Debido a que no habñía nadie más de Davian en la sala además de Xphyira, 
+intentó asesinar a Davian.
+
+Decidió asestar un "instakill" en el corazón de Davian, muy a su pesar, no pudo alcanzar el corazón, asique decidió lanzar la Daga de Latar al corazón. Con un 1 natural se decidió el destino de la situación.
+
+Falló a Davian y el cuchillo acabó clavado en un libro de las estanterías del final, haciendo que el libro cayese e hiciese un estruendo metálico que sacó a DAvian de su silla, el cual llamó a Anasu por asistencia. 
+
+Xphyira, aún debajo de la mesa y con posibilidades de poder ser descubiertos, aprovechó la ingenuidad de Blorb para intentar engañarlo. Dijo: "Davian a morir, eres el único que puede salvarlo, ve, YA!".
+
+Blorb cuestionó la voz pero por poco tiempo y decidió ir a socorrer a Davian, 
 
 
 
