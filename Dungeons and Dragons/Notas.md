@@ -56,7 +56,7 @@ Convo con Evira
 
 *He manifestado una daga psionica antes de dejar la campaña (iba a tirar la cuchilla al ladi)*
 
-## Puelob del arbol
+## Pueblo del arbol (Koulom)
 ----
 Convo con men random con ojos amarillos
 * Esencias mínimas (artimetica, surpevivencia,...)
