@@ -67,7 +67,6 @@ Convo con men random con ojos amarillos
 	* Prepotente
 	* Viejo
 	* Tiene mucahas historias
-	*
 
 Dentro del templo:
 	Vinur
