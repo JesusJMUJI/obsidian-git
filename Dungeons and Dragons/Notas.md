@@ -78,6 +78,12 @@ Convo con Devian:
 * Aceptará su muerte
 * No puede morir en su pueblo
 
+Intento de asesinato:
+* Xphyira ha fallado
+* Blorb ha calmado la situacion
+* **LA DAGA DE LATTAR LA TIENE ANASU**
+* 
+
 
 
 
