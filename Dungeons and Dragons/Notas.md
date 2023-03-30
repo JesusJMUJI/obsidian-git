@@ -104,8 +104,9 @@ Falló a Davian y el cuchillo acabó clavado en un libro de las estanterías del
 
 Xphyira, aún debajo de la mesa y con posibilidades de poder ser descubiertos, aprovechó la ingenuidad de Blorb para intentar engañarlo. Dijo: "Davian a morir, eres el único que puede salvarlo, ve, YA!".
 
-Blorb cuestionó la voz pero por poco tiempo y decidió ir a socorrer a Davian, 
+Blorb cuestionó la voz pero por poco tiempo y decidió ir a socorrer a Davian, evadiendo al resto de guardias. Blorb dijo con la confusión de todo el mundo que "una voz le había hablado" la cual pensaba que era el "arbol". 
 
+Hasta aquñi llega la historia. 
 
 
 ----
