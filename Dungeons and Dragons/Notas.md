@@ -77,7 +77,6 @@ Convo con Devian:
 * *Enciclopedia*
 * Aceptará su muerte
 * No puede morir en su pueblo
-* 
 
 
 
