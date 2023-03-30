@@ -56,6 +56,20 @@ Convo con Evira
 
 *He manifestado una daga psionica antes de dejar la campaña (iba a tirar la cuchilla al ladi)*
 
+## Puelob del arbol
+----
+Convo con men random con ojos amarillos
+* Esencias mínimas (artimetica, surpevivencia,...)
+* Devian se encuentra en el templo
+* Talar el arbol, perderían todo. ES como una idea.
+* Aasimar desciendes de las deidades. 
+* 
+
+
+
+
+
+----
 ### Notas no canónicas (no oidas por mi pj.)
 
 Libro de los goblins:
@@ -70,4 +84,5 @@ Convo Atsui y la tiefling
 * Ventur era el lider, era un heroe y no existe una tumba. 
 * Las uñas de la tiefling son interesantes. Son doradas y cambian de color. 
 
-* TRES HERREROS, Latar? 
+* TRES HERREROS, Latar?
+`
