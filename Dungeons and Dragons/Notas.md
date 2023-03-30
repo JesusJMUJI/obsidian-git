@@ -70,7 +70,12 @@ Convo con men random con ojos amarillos
 
 Dentro del templo:
 	Vinur
-	
+
+Convo con Devian:
+* Posee dos extractos
+* Ha luchado con lieviatán
+* *Enciclopedia*
+* 
 
 
 
