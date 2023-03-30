@@ -81,7 +81,8 @@ Convo con Devian:
 Intento de asesinato:
 * Xphyira ha fallado
 * Blorb ha calmado la situacion
-* **LA DAGA DE LATTAR LA TIENE ANASU**
+* **LA DAGA DE LATAR LA TIENE ANASU**
+
 
 
 ----
