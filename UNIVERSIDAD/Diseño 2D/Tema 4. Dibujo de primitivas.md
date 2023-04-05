@@ -181,4 +181,6 @@ $$2\Delta y [(x_k + 1) - X_k] + 2\Delta x [(y_k + 1) -y_k]$$
 ## Cuestiones T4
 1. Es el error de dibujado que existe entre dos píxeles. 
 3. Bresenham, Básico-Incremental, Ecuación de la recta
-4.Es que solo utiliza artimética entera. Tiene una coordenada de barrida en el que en la recta solo hay definir que píxel adyacente se pinta.
+4. Es que solo utiliza artimética entera. Tiene una coordenada de barrida en el que en la recta solo hay definir que píxel adyacente se pinta.
+7. El super-sampling crea una malla de subpixeles y se cuentan los subpixeles de una linea. EL porcentaje de cada subpixel representa la intensidad del color. 
+8. 
