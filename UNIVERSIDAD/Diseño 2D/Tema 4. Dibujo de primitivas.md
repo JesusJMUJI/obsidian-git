@@ -171,6 +171,14 @@ $$2\Delta y [(x_k + 1) - X_k] + 2\Delta x [(y_k + 1) -y_k]$$
 
 	b) centro en (-15,24) y radio 7
 
-| k   | Pk  | (x,y) | Pk+ 1 |
-| --- | --- | ----- | ----- |
-|     |     |       |       |
+| k    | Pk  | (x,y) | Pk+ 1 |
+| ---- | --- | ----- | ----- |
+|      |     |       |       |
+| ---- |     |       |       |
+
+
+----
+## Cuestiones T4
+1. Es el error de dibujado que existe entre dos píxeles. 
+3. Bresenham, Básico-Incremental, Ecuación de la recta
+4.Es que solo utiliza artimética entera. Tiene una coordenada de barrida en el que en la recta solo hay definir que píxel adyacente se pinta.
