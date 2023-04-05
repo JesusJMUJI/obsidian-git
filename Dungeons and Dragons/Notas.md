@@ -83,7 +83,7 @@ Intento de asesinato:
 * Blorb ha calmado la situacion
 * **LA DAGA DE LATAR LA TIENE ANASU**
 
-
+Hemos conseguido de escapar y estamos en una isla flotante. 
 
 ----
 ###### EL ASESINATO DE DAVIAN
