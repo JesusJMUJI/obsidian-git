@@ -6,6 +6,8 @@
 
 ```arm
 
+Cuadrados: recorrer array y leer elementos
+______________________________
 r0 <- dir comienzo matriz
 r1 <- nº filas
 r2 <- nº columnas
