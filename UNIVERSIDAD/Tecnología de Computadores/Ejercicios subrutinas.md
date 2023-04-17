@@ -13,5 +13,14 @@ r1 <- nº filas
 r2 <- nº columnas
 r3 <- dir comienzo matriz Cuadrado
 
+	    .data
+matriz: .word    11,12,13,14,21,22,23,24,31,32,33,34
+n:      .word    3
+m:      .word    4
+i:      .word    2
+j:      .word    3
+
+		.text
+main:   
 
 ```
