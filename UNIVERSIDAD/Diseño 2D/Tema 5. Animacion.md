@@ -15,4 +15,7 @@ Stop motion: fotografías
 	2. Cámaras multiplano: espacio entre capas para generar paralaje. 
 7. La animación japonesa es una mezcla de animación mixta. EN lichas, se usa completa y en diálogos (movimientos menores) se usa la limitada. 
 8. En mover los elementos de la imagen un poco y hacer una fotografía para crear la ilusión de movimiento. 
-9. 
+9. La animación por ordenador es la que usan los avances tecnológicos para simplificar ciertas tareas de la animación clásica. Interpolación, tilesets...
+10. Interpolación (inbetweeen), morphing (cambia de imagen a otra), papel cebolla (superposicion capas)
+11. Cualquier objeto que contenga posición y tamaño. 
+12. 
