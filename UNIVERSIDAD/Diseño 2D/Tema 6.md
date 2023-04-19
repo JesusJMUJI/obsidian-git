@@ -20,3 +20,7 @@ Luego, convertimos este valor a gigabytes (GB):
 (27,648,000 bytes/s) / (1024 MB/GB) = 26,992.1875 MB/s
 
 Por lo tanto, el video de 1 hora de duración con una resolución de 640x480, profundidad de color de 24 bits y 25 fps transmitirá aproximadamente 26,992 GB de información.
+
+$$1h \rightarrow 3600s * 25(fps) = 90000$$
+$$\frac{640*480*24}{1024*1024} = 7,03$$
+$$7,03 * 90.000$$
