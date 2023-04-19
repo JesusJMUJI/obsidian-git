@@ -13,4 +13,6 @@ Stop motion: fotografías
 6. Se crea un dibujo por fotograma de personaje y los fondos se crean mediante acrílicos. 
 	1. Técnica de cel overlay: objetos inanimados
 	2. Cámaras multiplano: espacio entre capas para generar paralaje. 
-7. 
+7. La animación japonesa es una mezcla de animación mixta. EN lichas, se usa completa y en diálogos (movimientos menores) se usa la limitada. 
+8. En mover los elementos de la imagen un poco y hacer una fotografía para crear la ilusión de movimiento. 
+9. 
