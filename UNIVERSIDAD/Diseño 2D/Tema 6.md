@@ -24,3 +24,4 @@ Por lo tanto, el video de 1 hora de duración con una resolución de 640x480, pr
 $$1h \rightarrow 3600s * 25(fps) = 90000$$
 $$\frac{640*480*24}{1024*1024} = 7,03$$
 $$7,03 * 90.000$$
+
