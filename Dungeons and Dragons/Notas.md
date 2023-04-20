@@ -111,6 +111,10 @@ Latar estaba en la era draconica y el lider de la casa Kentur y lucho contra lev
 
 Si pasan 1000 pasos sin que nadie lo mate, Leviatan dejeria a sus hermanos latentes. Medioth, estará con la casa Erikel. Intenciones oscuras y abandono a la daga de Latar.  
 
+*Despues de todo, Zhara viene...*
+
+*Hay una columna de nubes que indica una magia muy poderosa en la dirección*
+
 
 
 
