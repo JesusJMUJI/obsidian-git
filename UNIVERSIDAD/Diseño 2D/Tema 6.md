@@ -25,3 +25,8 @@ $$1h \rightarrow 3600s * 25(fps) = 90000$$
 $$\frac{640*480*24}{1024*1024} = 7,03$$
 $$7,03 * 90.000$$
 
+Ejercicio: Calcular el ancho de banda necesario (en Mbits por segundo) para una emisión Multicast con 800 observadores a 300 Kbit/seg, y ¿para una Unicast?
+
+800 * 300Kbits = 240.000 Kbits / 1000 = 0,3 Mbits/s
+0,3mbit x 800 = 324Mbit/s
+
