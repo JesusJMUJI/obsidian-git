@@ -107,7 +107,7 @@ AL entrar al portal:
 
 	RAUL ha roto la maquina y algunso recueros, ma manifestado un gigante. 
 
-
+Latar estaba en la era draconica y el lider de la casa Kentur y lucho contra leviantan. 
 
 
 
