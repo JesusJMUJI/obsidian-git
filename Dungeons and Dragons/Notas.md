@@ -157,6 +157,8 @@ LaMole esta muerta, el limbo es mas facil de acceder.
 * Ultima apuesta de la casa Kerman para recuperar el arma. 
 
 
+Klemasta fue invadida por Kerman hace unos pasos. 
+
 
 
 
