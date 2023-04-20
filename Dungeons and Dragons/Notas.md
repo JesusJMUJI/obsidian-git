@@ -128,7 +128,7 @@ Carta anonima paa zhara;
 
 LaMole esta muerta, el limbo es mas facil de acceder. 
 
-## Recuerdos
+#### Recuerdos
 * Me pillaron haciendo algo que no hacia o una mision
 * Yo un grupo habiamos sido contratados por una personae que recuerdo, Elios. 
 * La caa erikel me habia contratado
@@ -159,10 +159,13 @@ LaMole esta muerta, el limbo es mas facil de acceder.
 
 Klemasta fue invadida por Kerman hace unos pasos. 
 
+----
+# Duelo 
 
-
-
-
+*Tenemos que ir a Ventur, al faro concretamente y hablar con Mayor Ursa*
+*Decir que venimos de parte de Zhara y tenemos que insistir*
+*Preguntar por los peligros de la isla*
+*Las dunas esconden algo en el interor*
 
 
 
