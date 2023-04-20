@@ -115,6 +115,18 @@ Si pasan 1000 pasos sin que nadie lo mate, Leviatan dejeria a sus hermanos laten
 
 *Hay una columna de nubes que indica una magia muy poderosa en la dirección*
 
+Carta anonima paa zhara;
+ * Casa Eirkel y Venur estan en guerra por el armas
+ * El arma esta rbada
+ * La casa Kerman quiere arbrir portales para ibtener poner
+ * La casa Venur quiere obtener poder conomico
+ * La casa Erikel tiene el "Elios" para controlar Enosis
+ * El capitan posee un poder oculto, un guarda invisble. 
+ * Conflicto inminente?
+ * Enviado por un alieado de Enosis. 
+
+
+LaMole esta muerta, el limbo es mas facil de acceder. 
 
 
 
