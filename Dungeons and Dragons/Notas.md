@@ -105,6 +105,10 @@ AL entrar al portal:
 	
 	nfo llegara a Elios 
 
+	RAUL ha roto la maquina y algunso recueros, ma manifestado un gigante. 
+
+
+
 
 
 
