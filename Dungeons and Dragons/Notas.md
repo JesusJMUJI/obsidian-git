@@ -101,6 +101,7 @@ AL entrar al portal:
 	Dentro del templo, depsues de cargarnos al guardia.
 	*He usado mi palanca para sostener la puerta*
 	
+	Fuga: Ocaso Tercera semana
 	
 	
 
