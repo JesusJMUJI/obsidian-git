@@ -128,7 +128,33 @@ Carta anonima paa zhara;
 
 LaMole esta muerta, el limbo es mas facil de acceder. 
 
-
+## Recuerdos
+* Me pillaron haciendo algo que no hacia o una mision
+* Yo un grupo habiamos sido contratados por una personae que recuerdo, Elios. 
+* La caa erikel me habia contratado
+* Debia llegar a Vrachos, a casa Kerman, a la biblioteca coger un libro mirarlo y mirar la informacion
+* Habia una pista poetica. 
+* El grupo se desplazo y nos fuimos de la casa de Kerman. 
+* EStaba,os en una cuidad de Vrachos, 
+* No recuerdo la Persona
+* LLevo mucho giempo en Vrachos
+* Una luz al oeste, un haz de luz enorme brillo muy fuerte. 
+* La gente esta agitada por esto, pero tenia una misison
+* MISION: SABOTEAR EL COMBATE ENTRE MEDIOTH Y GORK
+* Coger un objeto que me mandaron, estaba dentro de una bolsa de cuero decoarada con una esquirla doarada de ore que Melioth llevaba. 
+* Melioth se quedo en Vrachos, 
+* No tuvimos exito en la mision y nos desmayamos.
+* No hay información de las armas. 
+* Nos despertamos en la carcel sabiendo que teniamos que huir. 
+* Calculamos cuando los celadores esatabn distraidos.
+* Finalmente, salimos y llegamos a la torre, con maquinaria tétrica y la ziquierda habia un archivero muy importante. 
+* La informacion no cuadraba con Elios, nos encerraron por supuesto traicion.
+* Buscamos en los archivos y encontramos cartas de Elios a Melitoh y al reves
+* Hablan de la ubicacion del arma. 
+* La mas reciente dice la ubi del arma. 
+* El arma se encontraba en Klemasta. 
+* Una de las islas al norte de Hectos. 
+* Ultima apuesta de la casa Kerman para recuperar el arma. 
 
 
 
