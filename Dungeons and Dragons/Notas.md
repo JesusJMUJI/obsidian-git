@@ -107,7 +107,9 @@ AL entrar al portal:
 
 	RAUL ha roto la maquina y algunso recueros, ma manifestado un gigante. 
 
-Latar estaba en la era draconica y el lider de la casa Kentur y lucho contra leviantan. 
+Latar estaba en la era draconica y el lider de la casa Kentur y lucho contra leviantan. Leviatan es la maldad n persona y muy arrogante. 
+
+Si pasan 1000 pasos sin que nadie lo mate, Leviatan dejeria a sus hermanos latentes. Medioth, estará con la casa Erikel. Intenciones oscuras y abandono a la daga de Latar.  
 
 
 
