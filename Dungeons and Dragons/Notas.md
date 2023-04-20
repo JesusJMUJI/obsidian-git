@@ -96,9 +96,10 @@ Convo con e cristal con Evira:
 AL entrar al portal:
 	Hemos entrado por un portal hecho de piedras. Al atravesarlo, es un espacio similar al actual pero cambiado ligeramenete, con el vacio más cercano. 
 	Solo se ve el gran árbol algo mas cambiado. 
-Hay un edificio blanquecino, ilumnado por las luces del arbol, en el extremo mas cercano al arbol .
+	Hay un edificio blanquecino, ilumnado por las luces del arbol, en el extremo mas cercano al arbol .
 
-
+Al activar el cristal de Zhara:
+	
 
 
 
