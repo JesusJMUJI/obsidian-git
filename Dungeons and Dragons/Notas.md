@@ -103,7 +103,7 @@ AL entrar al portal:
 	
 	Fuga: Ocaso Tercera semana
 	
-	nfo llegara a Elios 
+	El avoso de nuestra presencia en el almacen de recuerdos llegara Elios 
 
 	RAUL ha roto la maquina y algunso recueros, ma manifestado un gigante. 
 
