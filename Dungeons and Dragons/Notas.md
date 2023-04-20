@@ -98,7 +98,7 @@ AL entrar al portal:
 	Solo se ve el gran árbol algo mas cambiado. 
 	Hay un edificio blanquecino, ilumnado por las luces del arbol, en el extremo mas cercano al arbol .
 	----
-	La estructura es un cubo 
+	
 
 
 
