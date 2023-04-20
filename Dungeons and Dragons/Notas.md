@@ -86,6 +86,10 @@ Intento de asesinato:
 Hemos conseguido de escapar y estamos en una isla flotante. 
 
 ----
+
+
+
+----
 ###### EL ASESINATO DE DAVIAN
 
 Entramos en biblioteca de donde se encontraba de DAvian, con el pretexto de que Blurb entró y Anasu intentó quitarlo de encima. 
