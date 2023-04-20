@@ -87,6 +87,12 @@ Hemos conseguido de escapar y estamos en una isla flotante.
 
 ----
 
+Convo con e cristal con Evira:
+	Docus de prision de donde salimos:
+		Dentro del limbo donde se encuentran en un portal por los cuales el gremio aasimar reza. 
+
+*Puta que mal*
+
 
 
 
