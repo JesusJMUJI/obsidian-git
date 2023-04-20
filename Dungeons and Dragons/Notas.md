@@ -98,6 +98,10 @@ AL entrar al portal:
 	Solo se ve el gran árbol algo mas cambiado. 
 	Hay un edificio blanquecino, ilumnado por las luces del arbol, en el extremo mas cercano al arbol .
 	----
+	Dentro del templo, depsues de cargarnos al guardia.
+	*He usado mi palanca para sostener la puerta*
+	
+	
 	
 
 
