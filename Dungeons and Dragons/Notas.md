@@ -3,6 +3,8 @@ created: 2023-03-02T16:46:06+01:00
 modified: 2023-03-02T16:47:21+01:00
 ---
 
+$$1,2cos(1/(2s)x+pi/6)0.5$$
+
 # Notas
 
 ![Image](./1d71ce3edad6ef7e8e06195689efea42.jpg)
