@@ -167,7 +167,7 @@ Klemasta fue invadida por Kerman hace unos pasos.
 *Preguntar por los peligros de la isla*
 *Las dunas esconden algo en el interor*
 
-
+*Al apretar la piedra tenemos que decir: "Bruma"*
 
 
 
