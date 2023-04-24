@@ -38,3 +38,9 @@ Por tecnología:
 
 **Esto obliga a implementar una jerarquía de memoria con varios niveles de capacidad creciente y velocidad decreciente**
 
+### Memoria caché
+* Memoria más cercana al procesador  === las más rápida
+* Menor capcidad posible
+* Debido a estructura de datos, a continuación puede acceder a los datos en direcciones próximas en memoria. 
+* Debido a secuencialidad, es muy posible que se acceda a continuación se accede a la siguiente. 
+* 
