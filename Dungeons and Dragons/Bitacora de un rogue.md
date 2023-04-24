@@ -1,21 +1,14 @@
----
-created: 2023-03-02T16:46:06+01:00
-modified: 2023-03-02T16:47:21+01:00
----
+# Mapas
 
-$$1,2cos(1/(2s)x+pi/6)0.5$$
+![Image](mapa%20enosis.jpg)
 
-# Notas
-
-![Image](./1d71ce3edad6ef7e8e06195689efea42.jpg)
-
-![Image](./5ec1cadb6cbf93168fb50de5b8f5970a.jpg)
+![Image](mapa%20ektos.jpg)
 
 
 Abatida -> Dia de descanso 1o
 
 
-## Acto II
+# Acto II
 ----
 
 *Objetivo: Buscamos la ubicacion de los contenedores de las memorias*
