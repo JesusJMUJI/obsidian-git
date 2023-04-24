@@ -46,3 +46,14 @@ Por tecnología:
 * Debido a los bucles, es posible que vuelvan a ejecutarse instrucciones recientemente ejecutadas. 
 * Por otro lado, los condicionales provocan alteraciones en la secuencialidad. 
 
+## Organización 2D
+* Se organiza mediante:
+    * Buses
+    * Direcciones 
+    * Datos
+* EL primero determina la direccion de memoria que el procesador quiere acceder y el segundo transporta los datos a la memoria. 
+* Estructura en filas y columnas (dos dimensiones)
+* Cada fila de la matriz de celdas de bit contiene una palabra. 
+* Se necesita un descodificador que activa la fila correspondiente a la dirección accedida.
+* Cada bit constituye una columna de matriz de celdas de bit. 
+
