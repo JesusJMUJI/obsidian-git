@@ -19,3 +19,8 @@ public void EliminarPares(List<int> l){
 }
 ```
 
+```cs
+public class Cancion(T t){
+    
+}
+```
