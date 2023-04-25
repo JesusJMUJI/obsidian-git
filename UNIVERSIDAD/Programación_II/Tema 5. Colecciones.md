@@ -10,3 +10,11 @@ public Object DameProximo(ArrayList arrayList, Object objeto)
 }
 ```
 
+```cs
+public void EliminarPares(List<int> l){
+    for (int = 0; i < l.Count; i++)
+    {
+        if (l[i] % 2 == 0) l.Remove(l[i]);
+    }
+}
+```
