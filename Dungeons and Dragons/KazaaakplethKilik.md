@@ -1,29 +1,23 @@
 ```statblock
-image: [[Ancient Black Dragon.jpg]]
-name: Ancient Black Dragon
-size: Gargantuan
-type: dragon
-subtype:
-alignment: chaotic evil
-ac: 22
-hp: 367
-hit_dice: 21d20
-speed: 40 ft., fly 80 ft., swim 40 ft.
-stats: [27, 14, 25, 16, 15, 19]
+image: [[Thri-kreen-5e.webp]]
+name: KazaaakplethKilik
+size: Medio (2.1m)
+type: Thri-Kreen
+alignment: chaotic neutral
+ac: 18
+hp: 13
+hit_dice: 1d10
+speed: 30 ft.
+stats: [15, 17, 16, 9, 14, 8]
 saves:
-  - dexterity: 9
-  - constitution: 14
-  - wisdom: 9
-  - charisma: 11
-skillsaves:
-  - perception: 16
-  - stealth: 9
-senses: blindsight 60 ft., darkvision 120 ft., passive Perception 26
-languages: Common, Draconic
-damage_resistances: bludgeoning, piercing, and slashing from nonmagical attacks
-damage_immunities: fire, poison
-condition_immunities: charmed, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
-cr: 21
+  - strength: 4
+  - dexterity: 3
+  - constitution: 5
+  - intelligence: -1
+  - wisdom: 2
+  - charisma: -1
+senses: blindsight 60 ft.
+languages: Common, Thri-Kreen (hablado)
 traits:
   - name: Amphibious
     desc: The dragon can breathe air and water
