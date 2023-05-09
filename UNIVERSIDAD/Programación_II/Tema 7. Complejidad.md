@@ -48,3 +48,26 @@ $$\sum^{N-1}_{i= 0}  \quad (\sum^{N-1}_{j=0}1) = N \rightarrow \sum^{N-1}_{i= 0}
 ```
 
 $$\sum^{N-1}_{i=0} \quad \sum^{N-1}_{j=0} \quad \sum^{N-1}_{k=0} \quad 1 \space=\space \sum^{N-1}_{i=0} \quad \sum^{N-1}_{j=0} N = \sum^{N-1}_{i=0}N^2 = N*N^2 = N^3$$
+
+----
+
+```cs
+int i = 0
+While (i<a.Length){
+    suma += a[i];
+    i++;
+}
+```
+$$\sum^{N-1}_{i=0}$$
+
+```cs
+int i = 0;
+while (i<a.GetLength(0)){
+    for (int j = 0; j<i;j++){
+        a[i,j] *= a[i,j];
+    }
+    a[i,j] *= 2;
+    i++;
+}
+```
+$$\sum^{N-1}_{i=0} \space (1+\sum^{i-1}_{j=0}1)$$
