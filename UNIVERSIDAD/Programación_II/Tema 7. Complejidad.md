@@ -5,7 +5,7 @@ $$\sum_{i=1}^{N} i = \frac{N(N+1))}{2} = \frac{N^2}{2} + \frac{N}{2} $$
 **Calcular el coste computacional de los algoritmos de suma de matrices y de multiplicación de matrices, implementados mediante los siguientes métodos:**
 
 ```cs
-        **public int[,] SumaMatrices(int[,] a, int[,] b) {
+        public int[,] SumaMatrices(int[,] a, int[,] b) {
 
             int[,] resultado = new int[a.GetLength(0), a.GetLength(1)];
 
