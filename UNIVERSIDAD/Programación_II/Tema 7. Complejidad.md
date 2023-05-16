@@ -101,6 +101,8 @@ for (int = 0; i < N; i++)
 }
 ```
 
+
+Este bucle es más eficiente que el anterior debido a que no se ejecutan *ifs* 
 ```cs
 x[0] = 8;
 for (int i = 1; i < N-1; i++) x[i]++;
