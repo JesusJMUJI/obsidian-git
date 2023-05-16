@@ -91,3 +91,18 @@ public void Ejemplo(int a, int[]x){
 }
 ```
 
+
+```cs
+for (int = 0; i < N; i++)
+{
+    if (i == 0) x[i] = 8;
+    else if (i == N-1) x[i] = 10;
+    else x[i]++;
+}
+```
+
+```cs
+x[0] = 8;
+for (int i = 1; i < N-1; i++) x[i]++;
+x[N-1]=10;
+```
