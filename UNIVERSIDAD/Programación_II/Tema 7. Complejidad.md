@@ -108,3 +108,40 @@ x[0] = 8;
 for (int i = 1; i < N-1; i++) x[i]++;
 x[N-1]=10;
 ```
+
+###### Entregable 12 - Ej2
+
+```cs
+**
+
+1.  Calcular la función de coste del siguiente método tomando como operación elemental la multiplicación: 
+
+ public void Costoso(int[,] a, int[] b) {
+       for(int i = 0; i < N-1; i++)
+             if (a[i,i] != 0) 
+                    for(int k = i+1; k < N; k++) {
+                          int t = a[k,i] / a[i,i];
+                          for(int j = 0; j < N; j++) 
+                                 a[k,j] -= a[i,j] *  t;
+                          b[k] -= b[i] * t;
+                    }
+  }
+
+**
+```
+
+Mejor caso: *A* tiene la diagonal principal = 0 siempre
+Peor caso: *A* no tiene en la diagonal principal ningún 0 
+
+$$\sum^{N-2}_{i=0}\sum^{N-1}_{k = i + 1} (1+\sum^{N-1}_{j = 0}1) 
+
+= \sum^{N-2}_{i=0} \sum^{N-1}_{k=i+1}(1+N)
+
+=\sum^{N-2}_{i=0}\sum^{N-1}_{k=i+1}1\sum^{N-2}_{i=0}\sum^{N-1}_{k=i+1}N 
+
+= \sum^{N-2}_{i=0}\sum^{N-1}_{k=i+1}1+N\sum^{N-2}_{i=0}\sum^{N-1}_{k=i+1}1 
+
+=
+$$
+$$= (1+N)\sum^{N-2}_{i=0}\sum^{N-1}_{k=i+1}1
+$$
