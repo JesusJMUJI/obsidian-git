@@ -71,3 +71,23 @@ while (i<a.GetLength(0)){
 }
 ```
 $$\sum^{N-1}_{i=0} \space (1+\sum^{i-1}_{j=0}1)$$
+
+Entregable 12 - Ej1
+```cs
+public void Ejemplo(int a, int[]x){
+    if (a>0){
+        for (int i = 0; i<n; i++)
+        {
+            x[i]++;
+        }
+    }
+    else
+    {
+        for (int i = 0; i<n; i++)
+        {
+            x[i] = 0;
+        }
+    }
+}
+```
+
