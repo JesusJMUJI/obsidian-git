@@ -133,6 +133,8 @@ x[N-1]=10;
 Mejor caso: *A* tiene la diagonal principal = 0 siempre
 Peor caso: *A* no tiene en la diagonal principal ningún 0 
 
+Caso medio????¿¿?¿???????!??!?!?!?! -->
+
 $$\sum^{N-2}_{i=0}\sum^{N-1}_{k = i + 1} (1+\sum^{N-1}_{j = 0}1) 
 
 = \sum^{N-2}_{i=0} \sum^{N-1}_{k=i+1}(1+N)
@@ -144,4 +146,12 @@ $$\sum^{N-2}_{i=0}\sum^{N-1}_{k = i + 1} (1+\sum^{N-1}_{j = 0}1)
 =
 $$
 $$= (1+N)\sum^{N-2}_{i=0}\sum^{N-1}_{k=i+1}1
+= \sum^{N-2}_{i=0}\sum^{N-1}_{k=i+1}(1+\sum^{N-1}_{j=0}+1)
+= (1+N)\sum^{N-2}_{i=0}(N-1-(i+1)+1)=(1+N)\sum^{N-2}_{i=0}(N-i-1)
 $$
+$$=(1+N)(\sum^{N-2}_{i=0}-\sum^{N-1}_{i=1}i-\sum^{N-2}_{i=0}1) 
+= (1+N)(N^2-N-\frac{N^2}{2}+\frac{N}{2}-N+1)
+= \frac{N^3}{2} - \frac{3N^2}{2} + N 
+$$
+$$= \frac{N^3}{2} - N^2 - \frac{N}{2} + 1$$
+
