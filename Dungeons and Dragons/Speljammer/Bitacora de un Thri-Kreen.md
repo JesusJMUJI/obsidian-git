@@ -5,4 +5,6 @@
 ---
 
 *Fecha: 2023-07-05*
+Barco: Moonrider
+Capitana: Saardax
 
