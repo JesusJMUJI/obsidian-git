@@ -211,4 +211,25 @@ Convo Atsui y la tiefling
 * Las uñas de la tiefling son interesantes. Son doradas y cambian de color. 
 
 * TRES HERREROS, Latar?
-`
+
+---
+
+29/09/2023
+
+Recap: 
+- Trajimos uno de los recueros.
+Zarazustra
+
+Estamos en la isla de ektos (este de enosis)
+Zara tiene una guardia en el sur de Ektos. Encontrada al este de Enosis. Isla marginada, sin covilozacoon solo al sur. 
+
+Mision: Inflitrarnos ganando el torneo.
+[[Querido Eriskal.pdf]]
+
+Vertice Arcano: Entidad del mundo de Enosis, que se reunen personas importantes de las casaas. 
+
+Mientras volabamos en el kiindori, habian mogollon de barcos de muchas casas diferentes. 
+
+Bort: Muchas armas, muy a melee puede tirar armas y es lento.
+Luna: habilidades misteriosas, desconocida 
+
