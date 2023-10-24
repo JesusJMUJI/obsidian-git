@@ -233,3 +233,32 @@ Mientras volabamos en el kiindori, habian mogollon de barcos de muchas casas dif
 Bort: Muchas armas, muy a melee puede tirar armas y es lento.
 Luna: habilidades misteriosas, desconocida 
 
+
+Erikel dice que en vez de empezar en los 1/4 de final, en los 1/8 de final. 
+Tenemos que hablar con Chard después del discurso de Erikel.
+
+Sandra: pelo rojizo, piel rosa, no elfa con orejas de elfo. 
+
+El documento en comun del viejales son terminos que indican que somos hijos de Erikel, juramos lealtad. Las normas: 
+* No se usaran hechizos de lvl 8
+* Nunca se podra agredir fisica y verbalmente a un mimebro de surcursal nacional del poder. 
+* Aceptas no hacer tampas: Modificar los resultados de las batallas, no votar en clendisteno, se jura no matar a nadie. 
+* No podemos prohibido usar dopaje a parte de las pociones de promocion y la superior. 
+
+13/10/2023
+
+* Nos situamos en Mesai
+
+###### *Reflejos Inquietantes
+Puedes usar una <u>reacción</u>, cuando un enemigo te ataque con un arma, puedes bloquear hasta 2d6 + bonus de preferencia. El daño de esa arma.
+Cuando realices los usos te quedarás ciego del ojo afectado por la promoción, Esto hará:
+	Bajará tú percepción pasiva a la mitad
+	Tendrás desventaja en las pruebas de destreza.*
+[x] / [ ] / [ ]
+
+###### *Darkness*
+https://5e.tools/spells.html#darkness_phb
+
+![[Contrincantes.jpg]]
+
+##### Después del combate con Ouedn y Clirk
