@@ -261,4 +261,40 @@ https://5e.tools/spells.html#darkness_phb
 
 ![[Contrincantes.jpg]]
 
+---
+03/11/2023
 ##### Después del combate con Ouedn y Clirk
+
+Nos vamos con esta gente a una "buena taberna". 
+* Luna se quedó parada un momento en la arena en el comienzo del combate, con los ojos cerrados, y luego el combatiente cayó rendido.
+* Un abuelo extraño sabe nuestra identidad llamado Merion y nos ha ofrecdio un trato para no delatarnos.
+* El plan consister en amañar la entrega de premios. 
+    * Personas sospechosas con armas sospechosas: 
+        * Renald Zonaid (ultima vez visto: mercado principal, buscando artiglugios extraños, siempre va con su arma, un palo (quarterstaff))
+        * Seraphius Zhorn
+        * Meleen Natali
+        * Ka Charl Mercb (posible casa eriskal)
+        * Purand Kort
+
+###### Después de la taberna
+Ha llegad una carta para Silvestre (Luis) advirtiendo de que cuide con quien hable.
+
+###### El enano de la herreria
+Una persona vino a preguntar una caracterisitca de un arma, un palo normal supuestamente. 
+
+###### Tienda de hechiceria donde ocurrio el killing
+* Nos ha dado un papel con alguien que buscar llamado: Ramirez
+* Luna se acerco muy rapido al combatiente, añadiendo a la historia anterior.
+
+###### Tienda de ramirez
+* El palo tenia cierta magia opresora.
+* Renald es escualida, debilucho y muy perdido, no encajaba en el lugar. 
+* Seraphius parece un pibe malo segun las lenguas.
+* Y que preguntemos por Galadriel. 
+
+Galadriel es la informante del lugar y sus precios son caros, nos aseguran que es de confiaanza. 
+
+Un pavo con una espada humeante nos ataca. Ni idea de quien es pero ha fingido estar dañado.
+
+Sur de sosta, nos lleva el Amarial a hablar con el supuesto Renald. 
+
