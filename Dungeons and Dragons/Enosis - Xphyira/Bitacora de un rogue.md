@@ -254,7 +254,7 @@ Puedes usar una <u>reacción</u>, cuando un enemigo te ataque con un arma, puede
 Cuando realices los usos te quedarás ciego del ojo afectado por la promoción, Esto hará:
 	Bajará tú percepción pasiva a la mitad
 	Tendrás desventaja en las pruebas de destreza.*
-[x] / [ ] / [ ]
+[ X] / [X] / [ ]
 
 ###### *Darkness*
 https://5e.tools/spells.html#darkness_phb
@@ -298,3 +298,7 @@ Un pavo con una espada humeante nos ataca. Ni idea de quien es pero ha fingido e
 
 Sur de sosta, nos lleva el Amarial a hablar con el supuesto Renald. 
 
+---
+17/11/2023
+
+Ocaso del primer día de Barbecho
