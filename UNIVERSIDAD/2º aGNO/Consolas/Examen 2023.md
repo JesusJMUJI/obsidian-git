@@ -35,3 +35,4 @@ En caso de reemplazo, se usa **LRU**.
 |                      	|     	|   	|           	| 412 	|   	|                     	|   	|
 
 ![[DibujoEjercicioMemoria.excalidraw]]
+
