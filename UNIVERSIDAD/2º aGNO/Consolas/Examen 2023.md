@@ -7,4 +7,14 @@
     3. En caaso contrario, se suma B y C. 
     4. Los valores A B y C se eneucnetra al inicio del programa, las posiciones de memoria 0,1 y 2. 
     5. El resultado se almacenara en la posicion 3 de la memoria.
-7. ![[Pasted image 20231212155858.png]]
+7. ![[EjMemoria.png]]
+
+---
+16 bits - DiR
+16 bits - dato
+Cada POS menos -> 1 DATO
+
+**Numero de conjuntos = 4
+Numero de bloques = 2
+Numero de datos = 2**
+
