@@ -60,3 +60,4 @@ Junio 2023
 Enero 2019
 
 1. Implementa un ciricuito con entrada de 3 numeros de 4 bits y devuelva un minimo de los 3. 
+![[Ej2_2019]]
