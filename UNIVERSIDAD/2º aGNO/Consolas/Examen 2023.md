@@ -36,3 +36,22 @@ En caso de reemplazo, se usa **LRU**.
 
 ![[DibujoEjercicioMemoria.excalidraw]]
 
+![[Ejercicio CPU]]
+
+---
+Junio 2023
+
+2. Implementa, dados dos numeros de 1 bit A y B, devuelva X,Y,Z. X sera 1 cuando un numero A sea mayor a B, Y sera 1 cuando A sea igual a B y Z sera 1 cuando A sea menor que B. En los tres casos cuando ujna salisa es 1, las otras son dos ceros. 
+
+
+| A   | B   | A > B | A == B | A < B |
+| --- | --- | ----- | ---- | ---- |
+| 0   | 0   | 0     | 1 | 0
+| 0   | 1   | 0     | 0 | 1
+| 1   | 0   | 1     | 0| 0
+| 1   | 1   | 0     | 1| 0
+
+
+6. Implementa CPU dos numeros binarios de 8 bits (A y B) y un binario de 2 bits (F). Como salida un OUT de 8 bits y un num bit (C). Cuando F es 00, devolvera en OUT la suma de A y B. Cuando es 01 devolvera la retsa de A y B. Cuando es 10, devolvera la multiplicacion de A y B. Y si es 11, devolvera el meyor de 2. En todos los casos menos 11, la salida C devolvera 1 si la operacion produce desboramiento, siendo en 0 en caso contrario. Cuando F es 11, devolvera siempre 0. 
+
+![[Ej2 y Ej4]]
