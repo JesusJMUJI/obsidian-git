@@ -55,3 +55,5 @@ Junio 2023
 6. Implementa CPU dos numeros binarios de 8 bits (A y B) y un binario de 2 bits (F). Como salida un OUT de 8 bits y un num bit (C). Cuando F es 00, devolvera en OUT la suma de A y B. Cuando es 01 devolvera la retsa de A y B. Cuando es 10, devolvera la multiplicacion de A y B. Y si es 11, devolvera el meyor de 2. En todos los casos menos 11, la salida C devolvera 1 si la operacion produce desboramiento, siendo en 0 en caso contrario. Cuando F es 11, devolvera siempre 0. 
 
 ![[Ej2 y Ej4]]
+
+---
