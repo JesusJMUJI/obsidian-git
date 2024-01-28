@@ -11,4 +11,6 @@ actualmente esa oscuridad esta contigo?
 
 ---
 
-Xy pertenecía a una tribu de kobolds que habitaba la zona baja de las montañas de la región de Berith Valle (región cálida y lagarto == frío); idolatraban a Silkros el dragón de la oscuridad. 
+Xy pertenecía a una tribu de kobolds que habitaba la zona baja de las montañas de la región de Berith (región cálida y lagarto == frío); idolatraban a Silkros.
+
+La tribu consistía de un clan Kobold cuyo único propósito era sobrevivir, la cual conseguían haciendo actos de robo, matanza y sacrificios. Aunque comentían estos actos, nadie sabía realmente quién hacía estos actos. Se caracterizaban por ser extramadamente sigilosos y dichos en este arte. 
