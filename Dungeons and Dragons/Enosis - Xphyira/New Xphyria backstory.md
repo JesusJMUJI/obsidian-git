@@ -12,5 +12,11 @@ actualmente esa oscuridad esta contigo?
 ---
 
 Xy pertenecía a una tribu de kobolds que habitaba la zona baja de las montañas de la región de Berith (región cálida y lagarto == frío); idolatraban a Silkros.
+Se caracterizaban por ser extremadamente sigilosos y dichos en este arte; y otro aspecto destacable eran sus escamas negras como la oscuridad. 
 
-La tribu consistía de un clan Kobold cuyo único propósito era sobrevivir, la cual conseguían haciendo actos de robo, matanza y sacrificios. Aunque comentían estos actos, nadie sabía realmente quién hacía estos actos. Se caracterizaban por ser extramadamente sigilosos y dichos en este arte. 
+La tribu consistía de un clan Kobold cuyo único propósito era sobrevivir, la cual conseguían haciendo actos de robo, matanza y sacrificios. 
+Aunque cometían estos actos, nadie sabía realmente quién hacía estos actos; todos tenían un elemento en común, muerte cerebral. Esto no sería tan extraño si no fuese por la falta de heridas lo cuál dificultaba enormamente la tarea de buscar pistas.
+
+Debido a la proximidad con la casa Galardys, en el pasado investigaron a las criaturas debido a la proximidad con las montañas cercanas, las cuales se situaban las minas de la casa. Nunca sacaron nada concluyente, nada más que el extraño aspecto de sus escamas; además de no saqueaban las minas y no eran más que una cosa más de la que preocuparse si se iba de manos. 
+
+Tiempo más tarde, empezaron a cometerse homicidios en masa en las aldeas cercanas a las montañas, más concretamente, las aldeas donde vivían los mineros. 
