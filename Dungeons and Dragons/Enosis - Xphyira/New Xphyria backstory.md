@@ -7,5 +7,7 @@
 - Xphyira cree en algun dios? Puede que las razones religiosas lo llevaran a algun sitio en especifico
 
 actualmente esa oscuridad esta contigo?
+![[Galardys.png]]
 
 ---
+
