@@ -312,4 +312,5 @@ Convo con Renald:
 * Punnar Cunt tiene otra de las armas raras con humo. 
 * El chico del baston fue a un bastion / torre ha hablar con alguien; parecia una persona noble / importante. Renald lo vio todo. El torreon esta en l parte N de la ciudad. 
 * Una mansalva de protestantes equilibristas intentaron entrar a una iglesia. 
-* 
+
+Una noticia: Dice que los equilibristas irrumpieron en una iglesia de Silkros. 
