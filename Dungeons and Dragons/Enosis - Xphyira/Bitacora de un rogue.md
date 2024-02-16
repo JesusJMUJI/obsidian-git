@@ -309,4 +309,4 @@ Ocaso del primer día de Barbecho
 Le han salido unas runas al conejo y Luna ha venido y tiene otras en el cuello.
 
 Convo con Renald:
-* 
+* Punnar Cunt tiene otra de las armas raras con humo. 
