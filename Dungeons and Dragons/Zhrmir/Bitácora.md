@@ -9,4 +9,5 @@ Nos despertamos en la cabaña del doctore Grefenengfan, un slime al que amenazam
 Llegamos al final de la montaña y ANIQUILAMOS a la chica y robamos la ropa al cadaver. 
 
 ---
+![[mapa lucas.jpg]]
 
