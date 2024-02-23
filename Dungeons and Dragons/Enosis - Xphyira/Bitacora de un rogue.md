@@ -323,5 +323,7 @@ Le he dado mi nombre a un elfo random que aparentemente me ha visto salir de la 
 Le he mos dado uno de oro a un crio. equisde.
 Punnar es un pibe abuelo muy alto con un mosquete de humo y una chaqueta escarlata. 
 
-
+Nos hemos cargado a Punnar.
 El mosquete de Punnar tiene una marca de proviene  de Norvinder. 
+
+Los papeles que habian y la lista de nombre de los portadores de armas se han desvanecido. 
