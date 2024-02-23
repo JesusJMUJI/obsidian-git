@@ -318,3 +318,4 @@ Una noticia: Dice que los equilibristas irrumpieron en una iglesia de Silkros.
 ---
 23/02/2024
 
+Le he dado mi nombre a un elfo random que aparentemente me ha visto salir de la conmocion. 
