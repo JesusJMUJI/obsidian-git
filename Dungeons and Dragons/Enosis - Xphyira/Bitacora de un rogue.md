@@ -321,4 +321,4 @@ Una noticia: Dice que los equilibristas irrumpieron en una iglesia de Silkros.
 Le he dado mi nombre a un elfo random que aparentemente me ha visto salir de la conmocion. 
 
 Le he mos dado uno de oro a un crio. equisde.
- 
+Punnar es un pibe abuelo muy alto con un mosquete de humo y una chaqueta escarlata. 
