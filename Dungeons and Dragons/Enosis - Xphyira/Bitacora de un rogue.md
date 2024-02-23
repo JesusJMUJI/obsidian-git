@@ -314,3 +314,7 @@ Convo con Renald:
 * Una mansalva de protestantes equilibristas intentaron entrar a una iglesia. 
 
 Una noticia: Dice que los equilibristas irrumpieron en una iglesia de Silkros. 
+
+---
+23/02/2024
+
