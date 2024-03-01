@@ -352,3 +352,5 @@ Despues de descansar y contar la verdad a los guardias. Hemos ido a ver lo de la
 La casa pertenecía a Punnar Kont. 
 
 En el piso superior, hemos encontrado un mosquete de buena calidad, y instruccciones para crear el mosquete. 
+Había un bicho que Blurb ha liberado: 
+Inmunidad: luz
