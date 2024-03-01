@@ -349,3 +349,4 @@ Kendel nos ha interogado.
 Zordon.
 
 Despues de descansar y contar la verdad a los guardias. Hemos ido a ver lo de la calavera de Blurb. (casa mas al norte con un lago). Por ahora, todo da mal rollo.
+La casa pertenecía a Punnar Kont. 
