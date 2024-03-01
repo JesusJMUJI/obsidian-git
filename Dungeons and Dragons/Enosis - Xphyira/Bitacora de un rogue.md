@@ -339,4 +339,8 @@ Conversacion con la calavera rara de Blurb
 * El material permite hacer un pacto. 
 * Insihgt: todo lo del pacto es cierto. 
 * El fantasma se ha insertado en la calavera de forma involuntaria. Algo o alguien lo ha puesto aqui.
-* 
+
+LA torre esa que le llamo la atencion a Blurb.
+**Torre del Congreso menor**
+![[torre.png]]
+
