@@ -329,3 +329,5 @@ El mosquete de Punnar tiene una marca de proviene  de Norvinder.
 Los papeles que habian y la lista de nombre de los portadores de armas se han desvanecido. 
 
 ---
+01 / 03 / 2024
+
