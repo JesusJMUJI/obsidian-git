@@ -345,3 +345,4 @@ LA torre esa que le llamo la atencion a Blurb.
 ![[torre.png]]
 La torre se hacen discusiones sobre cosas eruditas. Leyes.
 
+Kendel nos ha interogado.
