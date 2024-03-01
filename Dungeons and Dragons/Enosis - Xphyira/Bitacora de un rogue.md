@@ -331,3 +331,7 @@ Los papeles que habian y la lista de nombre de los portadores de armas se han de
 ---
 01 / 03 / 2024
 
+Blurh tiene una calavera que nos habla y su salvador fue Punnar.
+Lo encontro hace dos pasos en el pozo de Sphyri. 
+
+La calavera fue al pozo de SPhyrix buscando riqueza, y era de la Era I. Se le cayio el techo encima; sobrevivio debido a que tenia algo. Nos ofrece buscar sus partes del cuerpo y nos dira el objeto que le salvo. 
