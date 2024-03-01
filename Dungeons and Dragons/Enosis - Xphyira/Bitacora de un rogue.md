@@ -337,4 +337,5 @@ Conversacion con la calavera rara de Blurb
     Lo encontro hace dos pasos en el pozo de Sphyri. 
     La calavera fue al pozo de SPhyrix buscando riqueza, y era de la Era I. Se le cayio el techo encima; sobrevivio debido a que tenia algo. Nos ofrece buscar sus partes del cuerpo y nos dira el objeto que le salvo. 
     El material permite hacer un pacto. 
+    Insihgt: todo lo del pacto es cierto. 
     
