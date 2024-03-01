@@ -344,3 +344,4 @@ LA torre esa que le llamo la atencion a Blurb.
 **Torre del Congreso menor**
 ![[torre.png]]
 La torre se hacen discusiones sobre cosas eruditas. Leyes.
+
