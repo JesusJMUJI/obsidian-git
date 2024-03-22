@@ -368,3 +368,10 @@ Las escrituras de las paredes con oraciones Equilibristas dice:
 
 La chica de la calavera se llama Marina Runa. El nombre hace referencia a que Runa pertenece al Vertice Arcano, soberana de la casa Éldrunir. *(casa que acoge gente de edades avanzadas, hábiles con la magia.)*
 Ultimo recuerdo de Runa: Estaba en la casa de marido, Punnar Kunt; trabajando, Marina salio debido a que escucho muchos pasos. Cuando marina abrió la trampilla del estudio vvio a un hombre encapuchado y la asalto. La asalto un joven, pero no recuerda cosas.
+
+Hemos leido el diario de Punnar. 
+
+**TENEMOS +1d4 EN TODAS LAS TIRADAS DE ATAQUE Y HABILIDADES**
+
+![[Diario_de_Punard_Kont.pdf]]
+
