@@ -362,3 +362,7 @@ His NAT 20: Esta niche se celebra las noche  de las Luciernagas. Se que es una n
 Hace unos pasos, unos Silkristas hicieron una trifulca en una iglesia de Protista. 
 
 He encontrado unos apuntes de Punnar en sotano, en el que estaba probando un material que nunca habia escuchado, Retorica. 
+Las escrituras de las paredes con oraciones Equilibristas dice:
+* *Alonso necesita darme esta frase**
+* Una las frases esta modificada respecto a la original. 
+
