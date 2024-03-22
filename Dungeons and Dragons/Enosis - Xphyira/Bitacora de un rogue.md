@@ -361,3 +361,4 @@ Inmunidad: luz
 His NAT 20: Esta niche se celebra las noche  de las Luciernagas. Se que es una noche para lis religiosos, los Equilibristas, Protastantes y Silkristas.
 Hace unos pasos, unos Silkristas hicieron una trifulca en una iglesia de Protista. 
 
+He encontrado unos apuntes de Punnar en sotano, en el que estaba probando un material que nunca habia escuchado, Retorica. 
