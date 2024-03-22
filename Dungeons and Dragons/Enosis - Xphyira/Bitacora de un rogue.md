@@ -366,3 +366,4 @@ Las escrituras de las paredes con oraciones Equilibristas dice:
 * *Alonso necesita darme esta frase**
 * Una las frases esta modificada respecto a la original. 
 
+La chica de la calavera se llama Marina Runa. El nombre hace referencia a que Runa pertenece al Vertice Arcano, soberana de la casa Éldrunir. *(casa que acoge gente de edades avanzadas, hábiles con la magia.)*
