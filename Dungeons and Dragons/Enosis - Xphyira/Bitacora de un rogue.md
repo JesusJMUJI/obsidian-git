@@ -358,4 +358,6 @@ Inmunidad: luz
 ---
 ###### 22 / 03 / 2024
 
-Esta niche se celebra las nices  de las Luciernagas. Se que es una noche para lis reigiosos. 
+His NAT 20: Esta niche se celebra las noche  de las Luciernagas. Se que es una noche para lis religiosos, los Equilibristas, Protastantes y Silkristas.
+Hace unos pasos, unos Silkristas hicieron una trifulca en una iglesia de Protista. 
+
