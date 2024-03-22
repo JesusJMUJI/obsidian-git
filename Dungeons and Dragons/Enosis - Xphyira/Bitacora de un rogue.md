@@ -355,3 +355,6 @@ En el piso superior, hemos encontrado un mosquete de buena calidad, y instruccci
 Había un bicho que Blurb ha liberado: 
 Inmunidad: luz
 
+---
+###### 22 / 03 / 2024
+
