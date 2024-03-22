@@ -375,3 +375,7 @@ Hemos leido el diario de Punnar.
 
 ![[Diario_de_Punard_Kont.pdf]]
 
+Además Deja Vu nos ha comentado estos documentos:
+![[Memorias_de_Velar.pdf]]
+![[La_ciudad_enterrada 1.pdf]]
+
