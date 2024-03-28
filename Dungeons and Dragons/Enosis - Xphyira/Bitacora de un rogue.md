@@ -385,4 +385,5 @@ Además Deja Vu nos ha comentado estos documentos:
 
 Hemos perseguido a una mujer a un subsuelo debajo del bosque. 
 
-Depsues de liberar la casa de la tià esa, pusimos la piedra de la pared en unos huesos y se hicieron un golem. Este es hijo de Mithra, Lurum. 
+Depsues de liberar la casa de la tià esa, pusimos la piedra de la pared en unos huesos y se hicieron un golem. Este es hijo de Mithra, Lurmar. 
+Latar me ha dicho que se llama Limpur. 
